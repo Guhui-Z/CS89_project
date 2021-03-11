@@ -1,0 +1,1001 @@
+,mindate,maxdate,name,id
+0,1994/3/19,1996/5/28,Average cloudiness midnight to midnight from 30-second ceilometer data,ACMC
+1,1965/1/1,2005/12/31,Average cloudiness midnight to midnight from manual observations,ACMH
+2,1994/2/1,1996/5/28,Average cloudiness sunrise to sunset from 30-second ceilometer data,ACSC
+3,1965/1/1,2005/12/31,Average cloudiness sunrise to sunset from manual observations,ACSH
+4,1991/6/5,2021/3/7,Base Data,ALL
+5,2010/1/1,2010/1/1,Long-term averages of annual cooling degree days with base 45F,ANN-CLDD-BASE45
+6,2010/1/1,2010/1/1,Long-term averages of annual cooling degree days with base 50F,ANN-CLDD-BASE50
+7,2010/1/1,2010/1/1,Long-term averages of annual cooling degree days with base 55F,ANN-CLDD-BASE55
+8,2010/1/1,2010/1/1,Long-term averages of annual cooling degree days with base 57F,ANN-CLDD-BASE57
+9,2010/1/1,2010/1/1,Long-term averages of annual cooling degree days with base 60F,ANN-CLDD-BASE60
+10,2010/1/1,2010/1/1,Long-term averages of annual cooling degree days with base 70F,ANN-CLDD-BASE70
+11,2010/1/1,2010/1/1,Long-term averages of annual cooling degree days with base 72F,ANN-CLDD-BASE72
+12,2010/1/1,2010/1/1,Long-term averages of annual cooling degree days with base 65F,ANN-CLDD-NORMAL
+13,2010/1/1,2010/1/1,Long-term averages of annual diurnal temperature range,ANN-DUTR-NORMAL
+14,2010/1/1,2010/1/1,Long-term averages of annual growing degree days with base 40F,ANN-GRDD-BASE40
+15,2010/1/1,2010/1/1,Long-term averages of annual growing degree days with base 45F,ANN-GRDD-BASE45
+16,2010/1/1,2010/1/1,Long-term averages of annual growing degree days with base 50F,ANN-GRDD-BASE50
+17,2010/1/1,2010/1/1,Long-term averages of annual growing degree days with base 55F,ANN-GRDD-BASE55
+18,2010/1/1,2010/1/1,Long-term averages of annual growing degree days with base 57F,ANN-GRDD-BASE57
+19,2010/1/1,2010/1/1,Long-term averages of annual growing degree days with base 60F,ANN-GRDD-BASE60
+20,2010/1/1,2010/1/1,Long-term averages of annual growing degree days with base 65F,ANN-GRDD-BASE65
+21,2010/1/1,2010/1/1,Long-term averages of annual growing degree days with base 70F,ANN-GRDD-BASE70
+22,2010/1/1,2010/1/1,Long-term averages of annual growing degree days with base 72F,ANN-GRDD-BASE72
+23,2010/1/1,2010/1/1,Long-term averages of annual growing degree days with truncated bases 48F and 86F,ANN-GRDD-TB4886
+24,2010/1/1,2010/1/1,Long-term averages of annual growing degree days with truncated bases 50F and 86F,ANN-GRDD-TB5086
+25,2010/1/1,2010/1/1,Long-term averages of annual heating degree days with base 40F,ANN-HTDD-BASE40
+26,2010/1/1,2010/1/1,Long-term averages of annual heating degree days with base 45F,ANN-HTDD-BASE45
+27,2010/1/1,2010/1/1,Long-term averages of annual heating degree days with base 50F,ANN-HTDD-BASE50
+28,2010/1/1,2010/1/1,Long-term averages of annual heating degree days with base 55F,ANN-HTDD-BASE55
+29,2010/1/1,2010/1/1,Long-term averages of annual heating degree days with base 57F,ANN-HTDD-BASE57
+30,2010/1/1,2010/1/1,Long-term averages of annual heating degree days with base 60F,ANN-HTDD-BASE60
+31,2010/1/1,2010/1/1,Long-term averages of annual heating degree days with base 65F,ANN-HTDD-NORMAL
+32,2010/1/1,2010/1/1,Long-term averages of number of days during the year with precipitation >= 0.01 inches,ANN-PRCP-AVGNDS-GE001HI
+33,2010/1/1,2010/1/1,Long-term averages of number of days during the year with precipitation >= 0.10 inches,ANN-PRCP-AVGNDS-GE010HI
+34,2010/1/1,2010/1/1,Long-term averages of number of days during the year with precipitation >= 0.50 inches,ANN-PRCP-AVGNDS-GE050HI
+35,2010/1/1,2010/1/1,Long-term averages of number of days during the year with precipitation >= 1.00 inches,ANN-PRCP-AVGNDS-GE100HI
+36,2010/1/1,2010/1/1,Long-term averages of annual precipitation totals,ANN-PRCP-NORMAL
+37,2010/1/1,2010/1/1,Long-term averages of number of days during the year with snowfall >= 0.1 inches,ANN-SNOW-AVGNDS-GE001TI
+38,2010/1/1,2010/1/1,Long-term averages of number of days during the year with snowfall >= 1.0 inches,ANN-SNOW-AVGNDS-GE010TI
+39,2010/1/1,2010/1/1,Long-term averages of number of days during the year with snowfall >= 3.0 inches,ANN-SNOW-AVGNDS-GE030TI
+40,2010/1/1,2010/1/1,Long-term averages of number of days during the year with snowfall >= 5.0 inches,ANN-SNOW-AVGNDS-GE050TI
+41,2010/1/1,2010/1/1,Long-term averages of number of days during the year with snowfall >= 10.0 inches,ANN-SNOW-AVGNDS-GE100TI
+42,2010/1/1,2010/1/1,Long-term averages of annual snowfall totals,ANN-SNOW-NORMAL
+43,2010/1/1,2010/1/1,Long-term averages of number of days during the year with snow depth >= 1 inch,ANN-SNWD-AVGNDS-GE001WI
+44,2010/1/1,2010/1/1,Long-term averages of number of days during the year with snow depth >= 3 inches,ANN-SNWD-AVGNDS-GE003WI
+45,2010/1/1,2010/1/1,Long-term averages of number of days during the year with snow depth >=5 inches,ANN-SNWD-AVGNDS-GE005WI
+46,2010/1/1,2010/1/1,Long-term averages of number of days during the year with snow depth >=10 inches,ANN-SNWD-AVGNDS-GE010WI
+47,2010/1/1,2010/1/1,Long-term averages of annual average temperature,ANN-TAVG-NORMAL
+48,2010/1/1,2010/1/1,Long-term average number of days per year where tmax is greater than or equal to 40F,ANN-TMAX-AVGNDS-GRTH040
+49,2010/1/1,2010/1/1,Long-term average number of days per year where tmax is greater than or equal to 50F,ANN-TMAX-AVGNDS-GRTH050
+50,2010/1/1,2010/1/1,Long-term average number of days per year where tmax is greater than or equal to 60F,ANN-TMAX-AVGNDS-GRTH060
+51,2010/1/1,2010/1/1,Long-term average number of days per year where tmax is greater than or equal to 70F,ANN-TMAX-AVGNDS-GRTH070
+52,2010/1/1,2010/1/1,Long-term average number of days per year where tmax is greater than or equal to 80F,ANN-TMAX-AVGNDS-GRTH080
+53,2010/1/1,2010/1/1,Long-term average number of days per year where tmax is greater than or equal to 90F,ANN-TMAX-AVGNDS-GRTH090
+54,2010/1/1,2010/1/1,Long-term average number of days per year where tmax is greater than or equal to 100F,ANN-TMAX-AVGNDS-GRTH100
+55,2010/1/1,2010/1/1,Long-term average number of days per year where tmax is less than or equal to 32F,ANN-TMAX-AVGNDS-LSTH032
+56,2010/1/1,2010/1/1,Long-term averages of annual maximum temperature,ANN-TMAX-NORMAL
+57,2010/1/1,2010/1/1,Long-term average number of days per year where tmin is less than or equal to 0F,ANN-TMIN-AVGNDS-LSTH000
+58,2010/1/1,2010/1/1,Long-term average number of days per year where tmin is less than or equal to 10F,ANN-TMIN-AVGNDS-LSTH010
+59,2010/1/1,2010/1/1,Long-term average number of days per year where tmin is less than or equal to 20F,ANN-TMIN-AVGNDS-LSTH020
+60,2010/1/1,2010/1/1,Long-term average number of days per year where tmin is less than or equal to 32F,ANN-TMIN-AVGNDS-LSTH032
+61,2010/1/1,2010/1/1,Long-term average number of days per year where tmin is less than or equal to 40F,ANN-TMIN-AVGNDS-LSTH040
+62,2010/1/1,2010/1/1,Long-term average number of days per year where tmin is less than or equal to 50F,ANN-TMIN-AVGNDS-LSTH050
+63,2010/1/1,2010/1/1,Long-term average number of days per year where tmin is less than or equal to 60F,ANN-TMIN-AVGNDS-LSTH060
+64,2010/1/1,2010/1/1,Long-term average number of days per year where tmin is less than or equal to 70F,ANN-TMIN-AVGNDS-LSTH070
+65,2010/1/1,2010/1/1,Long-term averages of annual minimum temperature,ANN-TMIN-NORMAL
+66,2010/1/1,2010/1/1,10% probability date of first 16F occurrence or earlier,ANN-TMIN-PRBFST-T16FP10
+67,2010/1/1,2010/1/1,20% probability date of first 16F occurrence or earlier,ANN-TMIN-PRBFST-T16FP20
+68,2010/1/1,2010/1/1,30% probability date of first 16F occurrence or earlier,ANN-TMIN-PRBFST-T16FP30
+69,2010/1/1,2010/1/1,40% probability date of first 16F occurrence or earlier,ANN-TMIN-PRBFST-T16FP40
+70,2010/1/1,2010/1/1,50% probability date of first 16F occurrence or earlier,ANN-TMIN-PRBFST-T16FP50
+71,2010/1/1,2010/1/1,60% probability date of first 16F occurrence or earlier,ANN-TMIN-PRBFST-T16FP60
+72,2010/1/1,2010/1/1,70% probability date of first 16F occurrence or earlier,ANN-TMIN-PRBFST-T16FP70
+73,2010/1/1,2010/1/1,80% probability date of first 16F occurrence or earlier,ANN-TMIN-PRBFST-T16FP80
+74,2010/1/1,2010/1/1,90% probability date of first 16F occurrence or earlier,ANN-TMIN-PRBFST-T16FP90
+75,2010/1/1,2010/1/1,10% probability date of first 20F occurrence or earlier,ANN-TMIN-PRBFST-T20FP10
+76,2010/1/1,2010/1/1,20% probability date of first 20F occurrence or earlier,ANN-TMIN-PRBFST-T20FP20
+77,2010/1/1,2010/1/1,30% probability date of first 20F occurrence or earlier,ANN-TMIN-PRBFST-T20FP30
+78,2010/1/1,2010/1/1,40% probability date of first 20F occurrence or earlier,ANN-TMIN-PRBFST-T20FP40
+79,2010/1/1,2010/1/1,50% probability date of first 20F occurrence or earlier,ANN-TMIN-PRBFST-T20FP50
+80,2010/1/1,2010/1/1,60% probability date of first 20F occurrence or earlier,ANN-TMIN-PRBFST-T20FP60
+81,2010/1/1,2010/1/1,70% probability date of first 20F occurrence or earlier,ANN-TMIN-PRBFST-T20FP70
+82,2010/1/1,2010/1/1,80% probability date of first 20F occurrence or earlier,ANN-TMIN-PRBFST-T20FP80
+83,2010/1/1,2010/1/1,90% probability date of first 20F occurrence or earlier,ANN-TMIN-PRBFST-T20FP90
+84,2010/1/1,2010/1/1,10% probability date of first 24F occurrence or earlier,ANN-TMIN-PRBFST-T24FP10
+85,2010/1/1,2010/1/1,20% probability date of first 24F occurrence or earlier,ANN-TMIN-PRBFST-T24FP20
+86,2010/1/1,2010/1/1,30% probability date of first 24F occurrence or earlier,ANN-TMIN-PRBFST-T24FP30
+87,2010/1/1,2010/1/1,40% probability date of first 24F occurrence or earlier,ANN-TMIN-PRBFST-T24FP40
+88,2010/1/1,2010/1/1,50% probability date of first 24F occurrence or earlier,ANN-TMIN-PRBFST-T24FP50
+89,2010/1/1,2010/1/1,60% probability date of first 24F occurrence or earlier,ANN-TMIN-PRBFST-T24FP60
+90,2010/1/1,2010/1/1,70% probability date of first 24F occurrence or earlier,ANN-TMIN-PRBFST-T24FP70
+91,2010/1/1,2010/1/1,80% probability date of first 24F occurrence or earlier,ANN-TMIN-PRBFST-T24FP80
+92,2010/1/1,2010/1/1,90% probability date of first 24F occurrence or earlier,ANN-TMIN-PRBFST-T24FP90
+93,2010/1/1,2010/1/1,10% probability date of first 28F occurrence or earlier,ANN-TMIN-PRBFST-T28FP10
+94,2010/1/1,2010/1/1,20% probability date of first 28F occurrence or earlier,ANN-TMIN-PRBFST-T28FP20
+95,2010/1/1,2010/1/1,30% probability date of first 28F occurrence or earlier,ANN-TMIN-PRBFST-T28FP30
+96,2010/1/1,2010/1/1,40% probability date of first 28F occurrence or earlier,ANN-TMIN-PRBFST-T28FP40
+97,2010/1/1,2010/1/1,50% probability date of first 28F occurrence or earlier,ANN-TMIN-PRBFST-T28FP50
+98,2010/1/1,2010/1/1,60% probability date of first 28F occurrence or earlier,ANN-TMIN-PRBFST-T28FP60
+99,2010/1/1,2010/1/1,70% probability date of first 28F occurrence or earlier,ANN-TMIN-PRBFST-T28FP70
+100,2010/1/1,2010/1/1,80% probability date of first 28F occurrence or earlier,ANN-TMIN-PRBFST-T28FP80
+101,2010/1/1,2010/1/1,90% probability date of first 28F occurrence or earlier,ANN-TMIN-PRBFST-T28FP90
+102,2010/1/1,2010/1/1,10% probability date of first 32F occurrence or earlier,ANN-TMIN-PRBFST-T32FP10
+103,2010/1/1,2010/1/1,20% probability date of first 32F occurrence or earlier,ANN-TMIN-PRBFST-T32FP20
+104,2010/1/1,2010/1/1,30% probability date of first 32F occurrence or earlier,ANN-TMIN-PRBFST-T32FP30
+105,2010/1/1,2010/1/1,40% probability date of first 32F occurrence or earlier,ANN-TMIN-PRBFST-T32FP40
+106,2010/1/1,2010/1/1,50% probability date of first 32F occurrence or earlier,ANN-TMIN-PRBFST-T32FP50
+107,2010/1/1,2010/1/1,60% probability date of first 32F occurrence or earlier,ANN-TMIN-PRBFST-T32FP60
+108,2010/1/1,2010/1/1,70% probability date of first 32F occurrence or earlier,ANN-TMIN-PRBFST-T32FP70
+109,2010/1/1,2010/1/1,80% probability date of first 32F occurrence or earlier,ANN-TMIN-PRBFST-T32FP80
+110,2010/1/1,2010/1/1,90% probability date of first 32F occurrence or earlier,ANN-TMIN-PRBFST-T32FP90
+111,2010/1/1,2010/1/1,10% probability date of first 36F occurrence or earlier,ANN-TMIN-PRBFST-T36FP10
+112,2010/1/1,2010/1/1,20% probability date of first 36F occurrence or earlier,ANN-TMIN-PRBFST-T36FP20
+113,2010/1/1,2010/1/1,30% probability date of first 36F occurrence or earlier,ANN-TMIN-PRBFST-T36FP30
+114,2010/1/1,2010/1/1,40% probability date of first 36F occurrence or earlier,ANN-TMIN-PRBFST-T36FP40
+115,2010/1/1,2010/1/1,50% probability date of first 36F occurrence or earlier,ANN-TMIN-PRBFST-T36FP50
+116,2010/1/1,2010/1/1,60% probability date of first 36F occurrence or earlier,ANN-TMIN-PRBFST-T36FP60
+117,2010/1/1,2010/1/1,70% probability date of first 36F occurrence or earlier,ANN-TMIN-PRBFST-T36FP70
+118,2010/1/1,2010/1/1,80% probability date of first 36F occurrence or earlier,ANN-TMIN-PRBFST-T36FP80
+119,2010/1/1,2010/1/1,90% probability date of first 36F occurrence or earlier,ANN-TMIN-PRBFST-T36FP90
+120,2010/1/1,2010/1/1,10% probability of 16F growing season length or longer,ANN-TMIN-PRBGSL-T16FP10
+121,2010/1/1,2010/1/1,20% probability of 16F growing season length or longer,ANN-TMIN-PRBGSL-T16FP20
+122,2010/1/1,2010/1/1,30% probability of 16F growing season length or longer,ANN-TMIN-PRBGSL-T16FP30
+123,2010/1/1,2010/1/1,40% probability of 16F growing season length or longer,ANN-TMIN-PRBGSL-T16FP40
+124,2010/1/1,2010/1/1,50% probability of 16F growing season length or longer,ANN-TMIN-PRBGSL-T16FP50
+125,2010/1/1,2010/1/1,60% probability of 16F growing season length or longer,ANN-TMIN-PRBGSL-T16FP60
+126,2010/1/1,2010/1/1,70% probability of 16F growing season length or longer,ANN-TMIN-PRBGSL-T16FP70
+127,2010/1/1,2010/1/1,80% probability of 16F growing season length or longer,ANN-TMIN-PRBGSL-T16FP80
+128,2010/1/1,2010/1/1,90% probability of 16F growing season length or longer,ANN-TMIN-PRBGSL-T16FP90
+129,2010/1/1,2010/1/1,10% probability of 20F growing season length or longer,ANN-TMIN-PRBGSL-T20FP10
+130,2010/1/1,2010/1/1,20% probability of 20F growing season length or longer,ANN-TMIN-PRBGSL-T20FP20
+131,2010/1/1,2010/1/1,30% probability of 20F growing season length or longer,ANN-TMIN-PRBGSL-T20FP30
+132,2010/1/1,2010/1/1,40% probability of 20F growing season length or longer,ANN-TMIN-PRBGSL-T20FP40
+133,2010/1/1,2010/1/1,50% probability of 20F growing season length or longer,ANN-TMIN-PRBGSL-T20FP50
+134,2010/1/1,2010/1/1,60% probability of 20F growing season length or longer,ANN-TMIN-PRBGSL-T20FP60
+135,2010/1/1,2010/1/1,70% probability of 20F growing season length or longer,ANN-TMIN-PRBGSL-T20FP70
+136,2010/1/1,2010/1/1,80% probability of 20F growing season length or longer,ANN-TMIN-PRBGSL-T20FP80
+137,2010/1/1,2010/1/1,90% probability of 20F growing season length or longer,ANN-TMIN-PRBGSL-T20FP90
+138,2010/1/1,2010/1/1,10% probability of 24F growing season length or longer,ANN-TMIN-PRBGSL-T24FP10
+139,2010/1/1,2010/1/1,20% probability of 24F growing season length or longer,ANN-TMIN-PRBGSL-T24FP20
+140,2010/1/1,2010/1/1,30% probability of 24F growing season length or longer,ANN-TMIN-PRBGSL-T24FP30
+141,2010/1/1,2010/1/1,40% probability of 24F growing season length or longer,ANN-TMIN-PRBGSL-T24FP40
+142,2010/1/1,2010/1/1,50% probability of 24F growing season length or longer,ANN-TMIN-PRBGSL-T24FP50
+143,2010/1/1,2010/1/1,60% probability of 24F growing season length or longer,ANN-TMIN-PRBGSL-T24FP60
+144,2010/1/1,2010/1/1,70% probability of 24F growing season length or longer,ANN-TMIN-PRBGSL-T24FP70
+145,2010/1/1,2010/1/1,80% probability of 24F growing season length or longer,ANN-TMIN-PRBGSL-T24FP80
+146,2010/1/1,2010/1/1,90% probability of 24F growing season length or longer,ANN-TMIN-PRBGSL-T24FP90
+147,2010/1/1,2010/1/1,10% probability of 28F growing season length or longer,ANN-TMIN-PRBGSL-T28FP10
+148,2010/1/1,2010/1/1,20% probability of 28F growing season length or longer,ANN-TMIN-PRBGSL-T28FP20
+149,2010/1/1,2010/1/1,30% probability of 28F growing season length or longer,ANN-TMIN-PRBGSL-T28FP30
+150,2010/1/1,2010/1/1,40% probability of 28F growing season length or longer,ANN-TMIN-PRBGSL-T28FP40
+151,2010/1/1,2010/1/1,50% probability of 28F growing season length or longer,ANN-TMIN-PRBGSL-T28FP50
+152,2010/1/1,2010/1/1,60% probability of 28F growing season length or longer,ANN-TMIN-PRBGSL-T28FP60
+153,2010/1/1,2010/1/1,70% probability of 28F growing season length or longer,ANN-TMIN-PRBGSL-T28FP70
+154,2010/1/1,2010/1/1,80% probability of 28F growing season length or longer,ANN-TMIN-PRBGSL-T28FP80
+155,2010/1/1,2010/1/1,90% probability of 28F growing season length or longer,ANN-TMIN-PRBGSL-T28FP90
+156,2010/1/1,2010/1/1,10% probability of 32F growing season length or longer,ANN-TMIN-PRBGSL-T32FP10
+157,2010/1/1,2010/1/1,20% probability of 32F growing season length or longer,ANN-TMIN-PRBGSL-T32FP20
+158,2010/1/1,2010/1/1,30% probability of 32F growing season length or longer,ANN-TMIN-PRBGSL-T32FP30
+159,2010/1/1,2010/1/1,40% probability of 32F growing season length or longer,ANN-TMIN-PRBGSL-T32FP40
+160,2010/1/1,2010/1/1,50% probability of 32F growing season length or longer,ANN-TMIN-PRBGSL-T32FP50
+161,2010/1/1,2010/1/1,60% probability of 32F growing season length or longer,ANN-TMIN-PRBGSL-T32FP60
+162,2010/1/1,2010/1/1,70% probability of 32F growing season length or longer,ANN-TMIN-PRBGSL-T32FP70
+163,2010/1/1,2010/1/1,80% probability of 32F growing season length or longer,ANN-TMIN-PRBGSL-T32FP80
+164,2010/1/1,2010/1/1,90% probability of 32F growing season length or longer,ANN-TMIN-PRBGSL-T32FP90
+165,2010/1/1,2010/1/1,10% probability of 36F growing season length or longer,ANN-TMIN-PRBGSL-T36FP10
+166,2010/1/1,2010/1/1,20% probability of 36F growing season length or longer,ANN-TMIN-PRBGSL-T36FP20
+167,2010/1/1,2010/1/1,30% probability of 36F growing season length or longer,ANN-TMIN-PRBGSL-T36FP30
+168,2010/1/1,2010/1/1,40% probability of 36F growing season length or longer,ANN-TMIN-PRBGSL-T36FP40
+169,2010/1/1,2010/1/1,50% probability of 36F growing season length or longer,ANN-TMIN-PRBGSL-T36FP50
+170,2010/1/1,2010/1/1,60% probability of 36F growing season length or longer,ANN-TMIN-PRBGSL-T36FP60
+171,2010/1/1,2010/1/1,70% probability of 36F growing season length or longer,ANN-TMIN-PRBGSL-T36FP70
+172,2010/1/1,2010/1/1,80% probability of 36F growing season length or longer,ANN-TMIN-PRBGSL-T36FP80
+173,2010/1/1,2010/1/1,90% probability of 36F growing season length or longer,ANN-TMIN-PRBGSL-T36FP90
+174,2010/1/1,2010/1/1,10% probability date of last 16F occurrence or later,ANN-TMIN-PRBLST-T16FP10
+175,2010/1/1,2010/1/1,20% probability date of last 16F occurrence or later,ANN-TMIN-PRBLST-T16FP20
+176,2010/1/1,2010/1/1,30% probability date of last 16F occurrence or later,ANN-TMIN-PRBLST-T16FP30
+177,2010/1/1,2010/1/1,40% probability date of last 16F occurrence or later,ANN-TMIN-PRBLST-T16FP40
+178,2010/1/1,2010/1/1,50% probability date of last 16F occurrence or later,ANN-TMIN-PRBLST-T16FP50
+179,2010/1/1,2010/1/1,60% probability date of last 16F occurrence or later,ANN-TMIN-PRBLST-T16FP60
+180,2010/1/1,2010/1/1,70% probability date of last 16F occurrence or later,ANN-TMIN-PRBLST-T16FP70
+181,2010/1/1,2010/1/1,80% probability date of last 16F occurrence or later,ANN-TMIN-PRBLST-T16FP80
+182,2010/1/1,2010/1/1,90% probability date of last 16F occurrence or later,ANN-TMIN-PRBLST-T16FP90
+183,2010/1/1,2010/1/1,10% probability date of last 20F occurrence or later,ANN-TMIN-PRBLST-T20FP10
+184,2010/1/1,2010/1/1,20% probability date of last 20F occurrence or later,ANN-TMIN-PRBLST-T20FP20
+185,2010/1/1,2010/1/1,30% probability date of last 20F occurrence or later,ANN-TMIN-PRBLST-T20FP30
+186,2010/1/1,2010/1/1,40% probability date of last 20F occurrence or later,ANN-TMIN-PRBLST-T20FP40
+187,2010/1/1,2010/1/1,50% probability date of last 20F occurrence or later,ANN-TMIN-PRBLST-T20FP50
+188,2010/1/1,2010/1/1,60% probability date of last 20F occurrence or later,ANN-TMIN-PRBLST-T20FP60
+189,2010/1/1,2010/1/1,70% probability date of last 20F occurrence or later,ANN-TMIN-PRBLST-T20FP70
+190,2010/1/1,2010/1/1,80% probability date of last 20F occurrence or later,ANN-TMIN-PRBLST-T20FP80
+191,2010/1/1,2010/1/1,90% probability date of last 20F occurrence or later,ANN-TMIN-PRBLST-T20FP90
+192,2010/1/1,2010/1/1,10% probability date of last 24F occurrence or later,ANN-TMIN-PRBLST-T24FP10
+193,2010/1/1,2010/1/1,20% probability date of last 24F occurrence or later,ANN-TMIN-PRBLST-T24FP20
+194,2010/1/1,2010/1/1,30% probability date of last 24F occurrence or later,ANN-TMIN-PRBLST-T24FP30
+195,2010/1/1,2010/1/1,40% probability date of last 24F occurrence or later,ANN-TMIN-PRBLST-T24FP40
+196,2010/1/1,2010/1/1,50% probability date of last 24F occurrence or later,ANN-TMIN-PRBLST-T24FP50
+197,2010/1/1,2010/1/1,60% probability date of last 24F occurrence or later,ANN-TMIN-PRBLST-T24FP60
+198,2010/1/1,2010/1/1,70% probability date of last 24F occurrence or later,ANN-TMIN-PRBLST-T24FP70
+199,2010/1/1,2010/1/1,80% probability date of last 24F occurrence or later,ANN-TMIN-PRBLST-T24FP80
+200,2010/1/1,2010/1/1,90% probability date of last 24F occurrence or later,ANN-TMIN-PRBLST-T24FP90
+201,2010/1/1,2010/1/1,10% probability date of last 28F occurrence or later,ANN-TMIN-PRBLST-T28FP10
+202,2010/1/1,2010/1/1,20% probability date of last 28F occurrence or later,ANN-TMIN-PRBLST-T28FP20
+203,2010/1/1,2010/1/1,30% probability date of last 28F occurrence or later,ANN-TMIN-PRBLST-T28FP30
+204,2010/1/1,2010/1/1,40% probability date of last 28F occurrence or later,ANN-TMIN-PRBLST-T28FP40
+205,2010/1/1,2010/1/1,50% probability date of last 28F occurrence or later,ANN-TMIN-PRBLST-T28FP50
+206,2010/1/1,2010/1/1,60% probability date of last 28F occurrence or later,ANN-TMIN-PRBLST-T28FP60
+207,2010/1/1,2010/1/1,70% probability date of last 28F occurrence or later,ANN-TMIN-PRBLST-T28FP70
+208,2010/1/1,2010/1/1,80% probability date of last 28F occurrence or later,ANN-TMIN-PRBLST-T28FP80
+209,2010/1/1,2010/1/1,90% probability date of last 28F occurrence or later,ANN-TMIN-PRBLST-T28FP90
+210,2010/1/1,2010/1/1,10% probability date of last 32F occurrence or later,ANN-TMIN-PRBLST-T32FP10
+211,2010/1/1,2010/1/1,20% probability date of last 32F occurrence or later,ANN-TMIN-PRBLST-T32FP20
+212,2010/1/1,2010/1/1,30% probability date of last 32F occurrence or later,ANN-TMIN-PRBLST-T32FP30
+213,2010/1/1,2010/1/1,40% probability date of last 32F occurrence or later,ANN-TMIN-PRBLST-T32FP40
+214,2010/1/1,2010/1/1,50% probability date of last 32F occurrence or later,ANN-TMIN-PRBLST-T32FP50
+215,2010/1/1,2010/1/1,60% probability date of last 32F occurrence or later,ANN-TMIN-PRBLST-T32FP60
+216,2010/1/1,2010/1/1,70% probability date of last 32F occurrence or later,ANN-TMIN-PRBLST-T32FP70
+217,2010/1/1,2010/1/1,80% probability date of last 32F occurrence or later,ANN-TMIN-PRBLST-T32FP80
+218,2010/1/1,2010/1/1,90% probability date of last 32F occurrence or later,ANN-TMIN-PRBLST-T32FP90
+219,2010/1/1,2010/1/1,10% probability date of last 36F occurrence or later,ANN-TMIN-PRBLST-T36FP10
+220,2010/1/1,2010/1/1,20% probability date of last 36F occurrence or later,ANN-TMIN-PRBLST-T36FP20
+221,2010/1/1,2010/1/1,30% probability date of last 36F occurrence or later,ANN-TMIN-PRBLST-T36FP30
+222,2010/1/1,2010/1/1,40% probability date of last 36F occurrence or later,ANN-TMIN-PRBLST-T36FP40
+223,2010/1/1,2010/1/1,50% probability date of last 36F occurrence or later,ANN-TMIN-PRBLST-T36FP50
+224,2010/1/1,2010/1/1,60% probability date of last 36F occurrence or later,ANN-TMIN-PRBLST-T36FP60
+225,2010/1/1,2010/1/1,70% probability date of last 36F occurrence or later,ANN-TMIN-PRBLST-T36FP70
+226,2010/1/1,2010/1/1,80% probability date of last 36F occurrence or later,ANN-TMIN-PRBLST-T36FP80
+227,2010/1/1,2010/1/1,90% probability date of last 36F occurrence or later,ANN-TMIN-PRBLST-T36FP90
+228,2010/1/1,2010/1/1,probability of 16F or below at least once in the year,ANN-TMIN-PRBOCC-LSTH016
+229,2010/1/1,2010/1/1,probability of 20F or below at least once in the year,ANN-TMIN-PRBOCC-LSTH020
+230,2010/1/1,2010/1/1,probability of 24F or below at least once in the year,ANN-TMIN-PRBOCC-LSTH024
+231,2010/1/1,2010/1/1,probability of 28F or below at least once in the year,ANN-TMIN-PRBOCC-LSTH028
+232,2010/1/1,2010/1/1,probability of 32F or below at least once in the year,ANN-TMIN-PRBOCC-LSTH032
+233,2010/1/1,2010/1/1,probability of 36F or below at least once in the year,ANN-TMIN-PRBOCC-LSTH036
+234,1982/1/1,2021/3/6,Average wind speed,AWND
+235,1763-01-01,2021/2/1,Cooling Degree Days Season to Date,CDSD
+236,1763-01-01,2021/2/1,Cooling Degree Days,CLDD
+237,2011/3/8,2021/3/7,Digital Accumulation Array(One Hour Precipitation total (256 levels) with Dual Pol. algorithm),DAA
+238,1948/8/2,2012/7/23,Number of days included in the multiday evaporation total (MDEV),DAEV
+239,1832-05-11,2021/3/7,Number of days included in the multiday precipitation total (MDPR),DAPR
+240,1877-01-02,2020/3/17,Number of days included in the multiday snow fall total (MDSF) ,DASF
+241,1863-05-04,2021/3/7,Number of days included in the multiday minimum temperature (MDTN),DATN
+242,1863-05-04,2021/3/6,Number of days included in the multiday maximum temperature (MDTX),DATX
+243,1935/9/23,2010/6/21,Number of days included in the multiday wind movement (MDWM),DAWM
+244,1994/5/20,2021/3/7,Digital Hybrid Scan Reflectivity,DHR
+245,2010/1/1,2010/1/1,Long-term averages of winter cooling degree days with base 45F,DJF-CLDD-BASE45
+246,2010/1/1,2010/1/1,Long-term averages of winter cooling degree days with base 50F,DJF-CLDD-BASE50
+247,2010/1/1,2010/1/1,Long-term averages of winter cooling degree days with base 55F,DJF-CLDD-BASE55
+248,2010/1/1,2010/1/1,Long-term averages of winter cooling degree days with base 57F,DJF-CLDD-BASE57
+249,2010/1/1,2010/1/1,Long-term averages of winter cooling degree days with base 60F,DJF-CLDD-BASE60
+250,2010/1/1,2010/1/1,Long-term averages of winter cooling degree days with base 70F,DJF-CLDD-BASE70
+251,2010/1/1,2010/1/1,Long-term averages of winter cooling degree days with base 72F,DJF-CLDD-BASE72
+252,2010/1/1,2010/1/1,Long-term averages of winter cooling degree days with base 65F,DJF-CLDD-NORMAL
+253,2010/1/1,2010/1/1,Long-term averages of winter diurnal temperature range,DJF-DUTR-NORMAL
+254,2010/1/1,2010/1/1,Long-term averages of winter growing degree days with base 40F,DJF-GRDD-BASE40
+255,2010/1/1,2010/1/1,Long-term averages of winter growing degree days with base 45F,DJF-GRDD-BASE45
+256,2010/1/1,2010/1/1,Long-term averages of winter growing degree days with base 50F,DJF-GRDD-BASE50
+257,2010/1/1,2010/1/1,Long-term averages of winter growing degree days with base 55F,DJF-GRDD-BASE55
+258,2010/1/1,2010/1/1,Long-term averages of winter growing degree days with base 57F,DJF-GRDD-BASE57
+259,2010/1/1,2010/1/1,Long-term averages of winter growing degree days with base 60F,DJF-GRDD-BASE60
+260,2010/1/1,2010/1/1,Long-term averages of winter growing degree days with base 65F,DJF-GRDD-BASE65
+261,2010/1/1,2010/1/1,Long-term averages of winter growing degree days with base 70F,DJF-GRDD-BASE70
+262,2010/1/1,2010/1/1,Long-term averages of winter growing degree days with base 72F,DJF-GRDD-BASE72
+263,2010/1/1,2010/1/1,Long-term averages of winter growing degree days with truncated bases 48F and 86F,DJF-GRDD-TB4886
+264,2010/1/1,2010/1/1,Long-term averages of winter growing degree days with truncated bases 50F and 86F,DJF-GRDD-TB5086
+265,2010/1/1,2010/1/1,Long-term averages of winter heating degree days with base 40F,DJF-HTDD-BASE40
+266,2010/1/1,2010/1/1,Long-term averages of winter heating degree days with base 45F,DJF-HTDD-BASE45
+267,2010/1/1,2010/1/1,Long-term averages of winter heating degree days with base 50F,DJF-HTDD-BASE50
+268,2010/1/1,2010/1/1,Long-term averages of winter heating degree days with base 55F,DJF-HTDD-BASE55
+269,2010/1/1,2010/1/1,Long-term averages of winter heating degree days with base 57F,DJF-HTDD-BASE57
+270,2010/1/1,2010/1/1,Long-term averages of winter heating degree days with base 60F,DJF-HTDD-BASE60
+271,2010/1/1,2010/1/1,Long-term averages of winter heating degree days with base 65F,DJF-HTDD-NORMAL
+272,2010/1/1,2010/1/1,Long-term averages of number of days during December-February with precipitation >= 0.01 inches,DJF-PRCP-AVGNDS-GE001HI
+273,2010/1/1,2010/1/1,Long-term averages of number of days during December-February with precipitation >= 0.10 inches,DJF-PRCP-AVGNDS-GE010HI
+274,2010/1/1,2010/1/1,Long-term averages of number of days during December-February with precipitation >= 0.50 inches,DJF-PRCP-AVGNDS-GE050HI
+275,2010/1/1,2010/1/1,Long-term averages of number of days during December-February with precipitation >= 1.00 inches,DJF-PRCP-AVGNDS-GE100HI
+276,2010/1/1,2010/1/1,Long-term averages of seasonal precipitation totals forDecember-February,DJF-PRCP-NORMAL
+277,2010/1/1,2010/1/1,Long-term averages of number of days during December-February with snowfall >= 0.1 inches,DJF-SNOW-AVGNDS-GE001TI
+278,2010/1/1,2010/1/1,Long-term averages of number of days during December-February with snowfall >= 1.0 inches,DJF-SNOW-AVGNDS-GE010TI
+279,2010/1/1,2010/1/1,Long-term averages of number of days during December-February with snowfall >= 3.0 inches,DJF-SNOW-AVGNDS-GE030TI
+280,2010/1/1,2010/1/1,Long-term averages of number of days during December-February with snowfall >= 5.0 inches,DJF-SNOW-AVGNDS-GE050TI
+281,2010/1/1,2010/1/1,Long-term averages of number of days during December-February with snowfall >= 10.0 inches,DJF-SNOW-AVGNDS-GE100TI
+282,2010/1/1,2010/1/1,Long-term averages of seasonal snowfall totals for December-February,DJF-SNOW-NORMAL
+283,2010/1/1,2010/1/1,Long-term averages of number of days during December-February with snow depth >= 1 inch,DJF-SNWD-AVGNDS-GE001WI
+284,2010/1/1,2010/1/1,Long-term averages of number of days during December-February with snow depth >= 3 inches,DJF-SNWD-AVGNDS-GE003WI
+285,2010/1/1,2010/1/1,Long-term averages of number of days during December-February with snow depth >= 5 inches,DJF-SNWD-AVGNDS-GE005WI
+286,2010/1/1,2010/1/1,Long-term averages of number of days during December-February with snow depth >= 10 inches,DJF-SNWD-AVGNDS-GE010WI
+287,2010/1/1,2010/1/1,Long-term averages of winter average temperature,DJF-TAVG-NORMAL
+288,2010/1/1,2010/1/1,Long-term average number of days per winter where tmax is greater than or equal to 40F,DJF-TMAX-AVGNDS-GRTH040
+289,2010/1/1,2010/1/1,Long-term average number of days per winter where tmax is greater than or equal to 50F,DJF-TMAX-AVGNDS-GRTH050
+290,2010/1/1,2010/1/1,Long-term average number of days per winter where tmax is greater than or equal to 60F,DJF-TMAX-AVGNDS-GRTH060
+291,2010/1/1,2010/1/1,Long-term average number of days per winter where tmax is greater than or equal to 70F,DJF-TMAX-AVGNDS-GRTH070
+292,2010/1/1,2010/1/1,Long-term average number of days per winter where tmax is greater than or equal to 80F,DJF-TMAX-AVGNDS-GRTH080
+293,2010/1/1,2010/1/1,Long-term average number of days per winter where tmax is greater than or equal to 90F,DJF-TMAX-AVGNDS-GRTH090
+294,2010/1/1,2010/1/1,Long-term average number of days per winter where tmax is greater than or equal to 100F,DJF-TMAX-AVGNDS-GRTH100
+295,2010/1/1,2010/1/1,Long-term average number of days per winter where tmax is less than or equal to 32F,DJF-TMAX-AVGNDS-LSTH032
+296,2010/1/1,2010/1/1,Long-term averages of winter maximum temperature,DJF-TMAX-NORMAL
+297,2010/1/1,2010/1/1,Long-term average number of days per winter where tmin is less than or equal to 0F,DJF-TMIN-AVGNDS-LSTH000
+298,2010/1/1,2010/1/1,Long-term average number of days per winter where tmin is less than or equal to 10F,DJF-TMIN-AVGNDS-LSTH010
+299,2010/1/1,2010/1/1,Long-term average number of days per winter where tmin is less than or equal to 20F,DJF-TMIN-AVGNDS-LSTH020
+300,2010/1/1,2010/1/1,Long-term average number of days per winter where tmin is less than or equal to 32F,DJF-TMIN-AVGNDS-LSTH032
+301,2010/1/1,2010/1/1,Long-term average number of days per winter where tmin is less than or equal to 40F,DJF-TMIN-AVGNDS-LSTH040
+302,2010/1/1,2010/1/1,Long-term average number of days per winter where tmin is less than or equal to 50F,DJF-TMIN-AVGNDS-LSTH050
+303,2010/1/1,2010/1/1,Long-term average number of days per winter where tmin is less than or equal to 60F,DJF-TMIN-AVGNDS-LSTH060
+304,2010/1/1,2010/1/1,Long-term average number of days per winter where tmin is less than or equal to 70F,DJF-TMIN-AVGNDS-LSTH070
+305,2010/1/1,2010/1/1,Long-term averages of winter minimum temperature,DJF-TMIN-NORMAL
+306,2010/1/1,2010/12/31,Long-term averages of daily cooling degree days with base 45F,DLY-CLDD-BASE45
+307,2010/1/1,2010/12/31,Long-term averages of daily cooling degree days with base 50F,DLY-CLDD-BASE50
+308,2010/1/1,2010/12/31,Long-term averages of daily cooling degree days with base 55F,DLY-CLDD-BASE55
+309,2010/1/1,2010/12/31,Long-term averages of daily cooling degree days with base 57F,DLY-CLDD-BASE57
+310,2010/1/1,2010/12/31,Long-term averages of daily cooling degree days with base 60F,DLY-CLDD-BASE60
+311,2010/1/1,2010/12/31,Long-term averages of daily cooling degree days with base 70F,DLY-CLDD-BASE70
+312,2010/1/1,2010/12/31,Long-term averages of daily cooling degree days with base 72F,DLY-CLDD-BASE72
+313,2010/1/1,2010/12/31,Long-term averages of daily cooling degree days with base 65F,DLY-CLDD-NORMAL
+314,2010/1/1,2010/12/31,Long-term averages of daily diurnal temperature range,DLY-DUTR-NORMAL
+315,2010/1/1,2010/12/31,Long-term standard deviations of daily diurnal temperature range,DLY-DUTR-STDDEV
+316,2010/1/1,2010/12/31,Long-term averages of daily growing degree days with base 40F,DLY-GRDD-BASE40
+317,2010/1/1,2010/12/31,Long-term averages of daily growing degree days with base 45F,DLY-GRDD-BASE45
+318,2010/1/1,2010/12/31,Long-term averages of daily growing degree days with base 50F,DLY-GRDD-BASE50
+319,2010/1/1,2010/12/31,Long-term averages of daily growing degree days with base 55F,DLY-GRDD-BASE55
+320,2010/1/1,2010/12/31,Long-term averages of daily growing degree days with base 57F,DLY-GRDD-BASE57
+321,2010/1/1,2010/12/31,Long-term averages of daily growing degree days with base 60F,DLY-GRDD-BASE60
+322,2010/1/1,2010/12/31,Long-term averages of daily growing degree days with base 65F,DLY-GRDD-BASE65
+323,2010/1/1,2010/12/31,Long-term averages of daily growing degree days with base 70F,DLY-GRDD-BASE70
+324,2010/1/1,2010/12/31,Long-term averages of daily growing degree days with base 72F,DLY-GRDD-BASE72
+325,2010/1/1,2010/12/31,Long-term averages of daily growing degree days with truncated bases 48F and 86F,DLY-GRDD-TB4886
+326,2010/1/1,2010/12/31,Long-term averages of daily growing degree days with truncated bases 50F and 86F,DLY-GRDD-TB5086
+327,2010/1/1,2010/12/31,Long-term averages of daily heating degree days with base 40F,DLY-HTDD-BASE40
+328,2010/1/1,2010/12/31,Long-term averages of daily heating degree days with base 45F,DLY-HTDD-BASE45
+329,2010/1/1,2010/12/31,Long-term averages of daily heating degree days with base 50F,DLY-HTDD-BASE50
+330,2010/1/1,2010/12/31,Long-term averages of daily heating degree days with base 55F,DLY-HTDD-BASE55
+331,2010/1/1,2010/12/31,Long-term averages of daily heating degree days with base 57F,DLY-HTDD-BASE57
+332,2010/1/1,2010/12/31,Long-term averages of daily heating degree days with base 60F,DLY-HTDD-BASE60
+333,2010/1/1,2010/12/31,Long-term averages of daily heating degree days with base 65F,DLY-HTDD-NORMAL
+334,2010/1/1,2010/12/31,25th percentiles of daily nonzero precipitation totals for 29-day windows centered on each day of the year,DLY-PRCP-25PCTL
+335,2010/1/1,2010/12/31,50th percentiles of daily nonzero precipitation totals for 29-day windows centered on each day of the year,DLY-PRCP-50PCTL
+336,2010/1/1,2010/12/31,75th percentiles of daily nonzero precipitation totals for 29-day windows centered on each day of the year,DLY-PRCP-75PCTL
+337,2010/1/1,2010/12/31,Probability of precipitation >= 0.01 inches for 29-day windows centered on each day of the year,DLY-PRCP-PCTALL-GE001HI
+338,2010/1/1,2010/12/31,Probability of precipitation >= 0.10 inches for 29-day windows centered on each day of the year,DLY-PRCP-PCTALL-GE010HI
+339,2010/1/1,2010/12/31,Probability of precipitation >= 0.50 inches for 29-day windows centered on each day of the year,DLY-PRCP-PCTALL-GE050HI
+340,2010/1/1,2010/12/31,Probability of precipitation >= 1.00 inches for 29-day windows centered on each day of the year,DLY-PRCP-PCTALL-GE100HI
+341,2010/1/1,2010/12/31,25th percentiles of daily nonzero snowfall totals for 29-day windows centered on each day of the year,DLY-SNOW-25PCTL
+342,2010/1/1,2010/12/31,50th percentiles of daily nonzero snowfall totals for 29-day windows centered on each day of the year,DLY-SNOW-50PCTL
+343,2010/1/1,2010/12/31,75th percentiles of daily nonzero snowfall totals for 29-day windows centered on each day of the year,DLY-SNOW-75PCTL
+344,2010/1/1,2010/12/31,Probability of snowfall >= 0.1 inches for 29-day windows centered on each day of the year,DLY-SNOW-PCTALL-GE001TI
+345,2010/1/1,2010/12/31,Probability of snowfall >= 1.0 inches for 29-day windows centered on each day of the year,DLY-SNOW-PCTALL-GE010TI
+346,2010/1/1,2010/12/31,Probability of snowfall >= 3.0 inches for 29-day windows centered on each day of the year,DLY-SNOW-PCTALL-GE030TI
+347,2010/1/1,2010/12/31,Probability of snowfall >= 5.0 inches for 29-day windows centered on each day of the year,DLY-SNOW-PCTALL-GE050TI
+348,2010/1/1,2010/12/31,Probability of snowfall >= 10 inches for 29-day windows centered on each day of the year,DLY-SNOW-PCTALL-GE100TI
+349,2010/1/1,2010/12/31,25th percentiles of daily nonzero snow depth for 29-day windows centered on each day of the year,DLY-SNWD-25PCTL
+350,2010/1/1,2010/12/31,50th percentiles of daily nonzero snow depth for 29-day windows centered on each day of the year,DLY-SNWD-50PCTL
+351,2010/1/1,2010/12/31,75th percentiles of daily nonzero snow depth for 29-day windows centered on each day of the year,DLY-SNWD-75PCTL
+352,2010/1/1,2010/12/31,Probability of snow depth >= 1 inch for 29-day windows centered on each day of the year,DLY-SNWD-PCTALL-GE001WI
+353,2010/1/1,2010/12/31,Probability of snow depth >= 3 inches for 29-day windows centered on each day of the year,DLY-SNWD-PCTALL-GE003WI
+354,2010/1/1,2010/12/31,Probability of snow depth >= 5 inches for 29-day windows centered on each day of the year,DLY-SNWD-PCTALL-GE005WI
+355,2010/1/1,2010/12/31,Probability of snow depth >= 10 inches for 29-day windows centered on each day of the year,DLY-SNWD-PCTALL-GE010WI
+356,2010/1/1,2010/12/31,Long-term averages of daily average temperature,DLY-TAVG-NORMAL
+357,2010/1/1,2010/12/31,Long-term standard deviations of daily average temperature,DLY-TAVG-STDDEV
+358,2010/1/1,2010/12/31,Long-term averages of daily maximum temperature,DLY-TMAX-NORMAL
+359,2010/1/1,2010/12/31,Long-term standard deviations of daily maximum temperature,DLY-TMAX-STDDEV
+360,2010/1/1,2010/12/31,Long-term averages of daily minimum temperature,DLY-TMIN-NORMAL
+361,2010/1/1,2010/12/31,Long-term standard deviations of daily minimum temperature,DLY-TMIN-STDDEV
+362,2011/3/8,2021/3/7,One Hour Precipitation Difference = DAA-N1P,DOD
+363,1781-01-01,2021/2/1,Number of days with greater than or equal to 0.1 inch of precipitation,DP01
+364,1781-01-01,2016/3/1,Number of days with greater than or equal to 0.5 inch of precipitation,DP05
+365,1781-01-01,2021/2/1,Number of days with greater than or equal to 1.0 inch of precipitation,DP10
+366,1994/6/17,2021/3/7,Digital Precipitation Array,DPA
+367,1888-12-01,2015/11/1,Departure from normal monthly precipitation.,DPNP
+368,1888-06-01,2015/11/1,Departure from normal monthly temperature.,DPNT
+369,2011/3/8,2021/3/7,Instantaneous Precipitation Rate,DPR
+370,2011/3/8,2021/3/7,Storm Total Precipitation Difference = DTA-DSP,DSD
+371,1860-01-01,2021/2/1,Number days with snow depth > 1 inch(25.4mm) for the period.,DSND
+372,1840-05-01,2021/2/1,Number days with snow depth > 1 inch.,DSNW
+373,1994/6/17,2021/3/7,Digital Storm Total Precipitation,DSP
+374,1763-01-01,2021/2/1,Number days with minimum temperature less than or equal to 0.0 F,DT00
+375,1763-01-01,2021/2/1,Number days with minimum temperature less than or equal to 32.0 F,DT32
+376,1942/1/1,1981/12/1,Number days with minimum temperature < 59 F. (Puerto Rico and Virgin Islands only.),DT60
+377,1922/1/1,2015/11/1,Number days with maximum temperature > 70 F. (Alaska only.),DT70
+378,1763-01-01,2016/3/1,Number days with maximum temperature greater than or equal 90.0 F,DT90
+379,2011/3/8,2021/3/7,Digital Storm Total Accumulation(Storm Total Precipitation total (256 levels) with Dual Pol. algorithm),DTA
+380,1994/5/20,2021/3/7,Digital Vertical Integrated Liquid,DVL
+381,1832-05-11,2021/3/7,Number of days with non-zero precipitation included in multiday precipitation total (MDPR),DWPR
+382,1763-01-01,2021/2/1,Number days with maximum temperature < 32 F.,DX32
+383,1942/1/1,1981/12/1,Number days with maximum temperature < 59 F. (Puerto Rico and Virgin Islands only.),DX60
+384,1763-01-01,2021/2/1,Number days with maximum temperature > 70 F (21.1C),DX70
+385,1763-01-01,2021/2/1,Number days with maximum temperature > 90 F (32.2C),DX90
+386,1763-01-01,2021/2/1,Day Extreme minimum temperature occurred for the period.,DYNT
+387,1860-01-01,2021/2/1,Day the extreme maximum daily Snow Depth for the period occurred.,DYSD
+388,1840-05-01,2021/2/1,Day the extreme maximum daily snowfall for the period occurred.,DYSN
+389,1781-01-01,2021/2/1,Day Extreme maximum daily precipitation for the period.,DYXP
+390,1763-01-01,2021/2/1,Date Extreme maximum temperature occurred for the period.,DYXT
+391,1994/5/20,2021/3/7,Enhanced Echo Tops,EET
+392,1763-01-01,2021/2/1,Extreme minimum temperature for the period.,EMNT
+393,1860-01-01,2021/2/1,Extreme maximum snow depth for the period.,EMSD
+394,1840-05-01,2021/2/1,Extreme maximum snowfall for the period.,EMSN
+395,1781-01-01,2021/2/1,Extreme maximum precipitation for the period.,EMXP
+396,1763-01-01,2021/2/1,Extreme maximum temperature for the period.,EMXT
+397,1893-01-09,2021/1/31,Evaporation of water from evaporation pan,EVAP
+398,1982/1/1,2013/3/31,Time of fastest mile or fastest 1-minute wind,FMTM
+399,1946/10/29,1964/12/31,Base of frozen ground layer,FRGB
+400,1946/10/29,1964/12/31,Top of frozen ground layer,FRGT
+401,1948/1/1,1964/12/31,Thickness of frozen ground layer,FRTH
+402,1994/5/20,2021/3/7,Free Text Message,FTM
+403,1763-01-01,2020/1/1,First freeze <= to 32F/0C of the year.,FZF0
+404,1765-01-01,2020/1/1,First freeze <= 28F/-2.2C of the year,FZF1
+405,1767-01-01,2020/1/1,First freeze <= 24F/-4.4C of the year,FZF2
+406,1774-01-01,2020/1/1,First freeze <= 20F/-6.7C of the year,FZF3
+407,1774-01-01,2020/1/1,First freeze <= 16F/-8.9C of the year,FZF4
+408,1763-01-01,2020/1/1,Last freeze <= 32F/0C of the year,FZF5
+409,1763-01-01,2020/1/1,Last freeze <= 28F/-2.2C of the year,FZF6
+410,1763-01-01,2020/1/1,Last freeze <= 24F/-4.4C of the year,FZF7
+411,1766-01-01,2020/1/1,Last freeze <= 20F/-6.7C of the year,FZF8
+412,1767-01-01,2020/1/1,Last freeze <= 16F/-8.9C of the year,FZF9
+413,1913/7/25,1964/12/31,Difference between river and gauge height,GAHT
+414,1994/5/20,2021/3/7,General Status Message,GSM
+415,1763-07-01,2021/2/1,Heating Degree Days Season to Date,HDSD
+416,2011/3/8,2021/3/7,Hybrid Hydrometeor Classification,HHC
+417,2010/1/1,2010/12/31,Cooling degree hours,HLY-CLDH-NORMAL
+418,2010/1/1,2010/12/31,Clouds broken percentage,HLY-CLOD-PCTBKN
+419,2010/1/1,2010/12/31,Clouds clear percentage,HLY-CLOD-PCTCLR
+420,2010/1/1,2010/12/31,Clouds few percentage,HLY-CLOD-PCTFEW
+421,2010/1/1,2010/12/31,Clouds overcast percentage,HLY-CLOD-PCTOVC
+422,2010/1/1,2010/12/31,Clouds scattered percentage,HLY-CLOD-PCTSCT
+423,2010/1/1,2010/12/31,Dew point 10th percentile,HLY-DEWP-10PCTL
+424,2010/1/1,2010/12/31,Dew point 90th percentile,HLY-DEWP-90PCTL
+425,2010/1/1,2010/12/31,Dew point mean,HLY-DEWP-NORMAL
+426,2010/1/1,2010/12/31,Heat index mean,HLY-HIDX-NORMAL
+427,2010/1/1,2010/12/31,Heating degree hours,HLY-HTDH-NORMAL
+428,2010/1/1,2010/12/31,Sea level pressure 10th percentile,HLY-PRES-10PCTL
+429,2010/1/1,2010/12/31,Sea level pressure 90th percentile,HLY-PRES-90PCTL
+430,2010/1/1,2010/12/31,Sea level pressure mean,HLY-PRES-NORMAL
+431,2010/1/1,2010/12/31,Temperature 10th percentile,HLY-TEMP-10PCTL
+432,2010/1/1,2010/12/31,Temperature 90th percentile,HLY-TEMP-90PCTL
+433,2010/1/1,2010/12/31,Temperature mean,HLY-TEMP-NORMAL
+434,2010/1/1,2010/12/31,Wind chill mean,HLY-WCHL-NORMAL
+435,2010/1/1,2010/12/31,Prevailing wind direction (1-8),HLY-WIND-1STDIR
+436,2010/1/1,2010/12/31,Prevailing wind percentage,HLY-WIND-1STPCT
+437,2010/1/1,2010/12/31,Secondary wind direction (1-8),HLY-WIND-2NDDIR
+438,2010/1/1,2010/12/31,Secondary wind percentage,HLY-WIND-2NDPCT
+439,2010/1/1,2010/12/31,Average wind speed,HLY-WIND-AVGSPD
+440,2010/1/1,2010/12/31,Percentage calm,HLY-WIND-PCTCLM
+441,2010/1/1,2010/12/31,Mean wind vector direction,HLY-WIND-VCTDIR
+442,2010/1/1,2010/12/31,Mean wind vector magnitude,HLY-WIND-VCTSPD
+443,1982/1/1,2021/1/1,Highest minimum soil temperature for the month (degrees F),HN01
+444,1984/1/1,2009/8/1,Highest minimum soil temperature for the month(cover: unknown,HN0190
+445,1982/1/1,2021/1/1,Highest minimum soil temperature for the month (degrees F),HN02
+446,1984/1/1,2010/12/1,Highest minimum soil temperature for the month(cover: unknown,HN0290
+447,2011/1/1,2012/1/1,Highest minimum soil temperature for the month(cover: unknown,HN0299
+448,1982/1/1,2021/1/1,Highest minimum soil temperature for the month (degrees F),HN03
+449,1984/1/1,2009/12/1,Highest minimum soil temperature for the month(cover: unknown,HN0390
+450,1982/1/1,2020/12/1,Highest minimum soil temperature for the month (degrees F),HN04
+451,1982/1/1,2020/11/1,Highest minimum soil temperature for the month (degrees F),HN05
+452,1982/1/1,2020/11/1,Highest minimum soil temperature for the month (degrees F),HN06
+453,1982/6/1,2020/11/1,Highest minimum soil temperature for the month (degrees F),HN07
+454,1982/6/1,2020/11/1,Highest minimum soil temperature for the month (degrees F),HN08
+455,1984/1/1,2010/12/1,Highest minimum soil temperature for the month(cover: grass,HN1190
+456,1984/1/1,1985/7/1,Highest minimum soil temperature for the month(cover: grass,HN1191
+457,1984/1/1,2010/12/1,Highest minimum soil temperature for the month(cover: grass,HN1290
+458,1984/1/1,1989/7/1,Highest minimum soil temperature for the month(cover: grass,HN1291
+459,2011/1/1,2012/9/1,Highest minimum soil temperature for the month(cover: grass,HN1299
+460,1984/1/1,2010/12/1,Highest minimum soil temperature for the month(cover: grass,HN1390
+461,1984/1/1,1988/12/1,Highest minimum soil temperature for the month(cover: grass,HN1391
+462,2011/1/1,2011/1/1,Highest minimum soil temperature for the month(cover: grass,HN1399
+463,2010/1/1,2010/12/1,Highest minimum soil temperature for the month(cover: grass,HN1490
+464,2011/1/1,2011/1/1,Highest minimum soil temperature for the month(cover: grass,HN1499
+465,1989/8/1,2010/12/1,Highest minimum soil temperature for the month(cover: fallow,HN2190
+466,1984/1/1,1988/12/1,Highest minimum soil temperature for the month(cover: fallow,HN2192
+467,1989/8/1,2010/12/1,Highest minimum soil temperature for the month(cover: fallow,HN2290
+468,1984/1/1,1988/12/1,Highest minimum soil temperature for the month(cover: fallow,HN2292
+469,1989/8/1,2010/12/1,Highest minimum soil temperature for the month(cover: fallow,HN2390
+470,1984/1/1,1988/12/1,Highest minimum soil temperature for the month(cover: fallow,HN2392
+471,1984/1/1,2010/12/1,Highest minimum soil temperature for the month(cover: bare ground,HN3190
+472,1984/1/1,1988/12/1,Highest minimum soil temperature for the month(cover: bare ground,HN3192
+473,2011/1/1,2015/11/1,Highest minimum soil temperature for the month(cover: bare ground,HN3199
+474,1984/1/1,2010/12/1,Highest minimum soil temperature for the month(cover: bare ground,HN3290
+475,1984/1/1,1989/2/1,Highest minimum soil temperature for the month(cover: bare ground,HN3292
+476,2011/1/1,2015/11/1,Highest minimum soil temperature for the month(cover: bare ground,HN3299
+477,1984/1/1,2010/12/1,Highest minimum soil temperature for the month(cover: bare ground,HN3390
+478,1984/1/1,1989/2/1,Highest minimum soil temperature for the month(cover: bare ground,HN3392
+479,2011/1/1,2015/11/1,Highest minimum soil temperature for the month(cover: bare ground,HN3399
+480,2004/8/1,2010/12/1,Highest minimum soil temperature for the month(cover: bare ground,HN3490
+481,2011/1/1,2011/9/1,Highest minimum soil temperature for the month(cover: bare ground,HN3499
+482,2004/8/1,2010/12/1,Highest minimum soil temperature for the month(cover: bare ground,HN3590
+483,2011/1/1,2015/11/1,Highest minimum soil temperature for the month(cover: bare ground,HN3599
+484,2006/4/1,2006/4/1,Highest minimum soil temperature for the month(cover: bare ground,HN3690
+485,2011/1/1,2015/11/1,Highest minimum soil temperature for the month(cover: bare ground,HN3699
+486,1984/1/1,2010/12/1,Highest minimum soil temperature for the month(cover: sod,HN5190
+487,2011/1/1,2015/11/1,Highest minimum soil temperature for the month(cover: sod,HN5199
+488,1984/1/1,2010/12/1,Highest minimum soil temperature for the month(cover: sod,HN5290
+489,1984/1/1,1989/2/1,Highest minimum soil temperature for the month(cover: sod,HN5291
+490,2011/1/1,2015/11/1,Highest minimum soil temperature for the month(cover: sod,HN5299
+491,1984/1/1,2010/12/1,Highest minimum soil temperature for the month(cover: sod,HN5390
+492,2011/1/1,2015/11/1,Highest minimum soil temperature for the month(cover: sod,HN5399
+493,2002/3/1,2010/12/1,Highest minimum soil temperature for the month(cover: sod,HN5490
+494,2011/1/1,2011/12/1,Highest minimum soil temperature for the month(cover: sod,HN5499
+495,2002/3/1,2009/2/1,Highest minimum soil temperature for the month(cover: sod,HN5590
+496,2011/1/1,2015/11/1,Highest minimum soil temperature for the month(cover: sod,HN5599
+497,2012/9/1,2015/11/1,Highest minimum soil temperature for the month(cover: sod,HN5699
+498,1984/1/1,1993/1/1,Highest minimum soil temperature for the month(cover: straw mulch,HN6190
+499,1989/3/1,1990/10/1,Highest minimum soil temperature for the month(cover: grass muck,HN7290
+500,1984/1/1,1988/12/1,Highest minimum soil temperature for the month(cover: grass muck,HN7293
+501,1990/1/1,1990/10/1,Highest minimum soil temperature for the month(cover: bare muck,HN8190
+502,1984/1/1,1989/2/1,Highest minimum soil temperature for the month(cover: bare muck,HN8193
+503,1989/3/1,1990/10/1,Highest minimum soil temperature for the month(cover: bare muck,HN8290
+504,1984/1/1,1988/12/1,Highest minimum soil temperature for the month(cover: bare muck,HN8293
+505,1989/3/1,1990/10/1,Highest minimum soil temperature for the month(cover: bare muck,HN8390
+506,1984/1/1,1988/12/1,Highest minimum soil temperature for the month(cover: bare muck,HN8393
+507,1984/1/1,2006/12/1,Highest soil temperature at observation time(cover: unknown,HO01A0
+508,1984/1/1,2009/4/1,Highest soil temperature at observation time(cover: unknown,HO01P0
+509,1984/1/1,1989/6/1,Highest soil temperature at observation time(cover: unknown,HO01P1
+510,1985/1/1,1988/12/1,Highest soil temperature at observation time(cover: unknown,HO01P2
+511,1984/1/1,2006/12/1,Highest soil temperature at observation time(cover: unknown,HO02A0
+512,1984/1/1,2009/4/1,Highest soil temperature at observation time(cover: unknown,HO02P0
+513,1986/1/1,1989/6/1,Highest soil temperature at observation time(cover: unknown,HO02P1
+514,1984/1/1,1985/12/1,Highest soil temperature at observation time(cover: unknown,HO02P2
+515,1984/1/1,2005/9/1,Highest soil temperature at observation time(cover: unknown,HO03A0
+516,1984/1/1,2009/4/1,Highest soil temperature at observation time(cover: unknown,HO03P0
+517,1985/1/1,1989/6/1,Highest soil temperature at observation time(cover: unknown,HO03P1
+518,1984/2/1,1986/12/1,Highest soil temperature at observation time(cover: unknown,HO03P2
+519,1984/1/1,2007/12/1,Highest soil temperature at observation time(cover: unknown,HO04A0
+520,1984/1/1,2009/12/1,Highest soil temperature at observation time(cover: unknown,HO04P0
+521,1984/1/1,1986/12/1,Highest soil temperature at observation time(cover: unknown,HO04P1
+522,1985/1/1,1989/6/1,Highest soil temperature at observation time(cover: unknown,HO04P2
+523,1984/1/1,2009/8/1,Highest soil temperature at observation time(cover: unknown,HO05A0
+524,1984/1/1,2009/12/1,Highest soil temperature at observation time(cover: unknown,HO05P0
+525,1984/1/1,1988/12/1,Highest soil temperature at observation time(cover: unknown,HO05P1
+526,1989/1/1,1989/6/1,Highest soil temperature at observation time(cover: unknown,HO05P2
+527,2006/1/1,2009/4/1,Highest soil temperature at observation time(cover: unknown,HO07P0
+528,1984/1/1,2010/12/1,Highest soil temperature at observation time(cover: grass,HO11A0
+529,1992/4/1,2010/12/1,Highest soil temperature at observation time(cover: grass,HO11P0
+530,1984/1/1,2010/12/1,Highest soil temperature at observation time(cover: grass,HO12A0
+531,1992/4/1,2010/12/1,Highest soil temperature at observation time(cover: grass,HO12P0
+532,1984/1/1,2010/12/1,Highest soil temperature at observation time(cover: grass,HO13A0
+533,2000/6/1,2010/12/1,Highest soil temperature at observation time(cover: grass,HO13P0
+534,1984/1/1,2010/12/1,Highest soil temperature at observation time(cover: grass,HO14A0
+535,1984/1/1,1985/7/1,Highest soil temperature at observation time(cover: grass,HO14A1
+536,2000/6/1,2010/12/1,Highest soil temperature at observation time(cover: grass,HO14P0
+537,1984/1/1,2010/12/1,Highest soil temperature at observation time(cover: grass,HO15A0
+538,1984/1/1,1985/7/1,Highest soil temperature at observation time(cover: grass,HO15A1
+539,2000/6/1,2010/12/1,Highest soil temperature at observation time(cover: grass,HO15P0
+540,2006/1/1,2010/12/1,Highest soil temperature at observation time(cover: grass,HO16A0
+541,2006/1/1,2010/12/1,Highest soil temperature at observation time(cover: grass,HO16P0
+542,2006/1/1,2010/12/1,Highest soil temperature at observation time(cover: grass,HO17A0
+543,2006/1/1,2010/6/1,Highest soil temperature at observation time(cover: grass,HO17P0
+544,1984/1/1,1984/10/1,Highest soil temperature at observation time(cover: fallow,HO21A0
+545,1984/1/1,1984/10/1,Highest soil temperature at observation time(cover: fallow,HO22A0
+546,1984/1/1,1984/10/1,Highest soil temperature at observation time(cover: fallow,HO23A0
+547,1984/1/1,1984/10/1,Highest soil temperature at observation time(cover: fallow,HO24A0
+548,1984/1/1,1984/10/1,Highest soil temperature at observation time(cover: fallow,HO25A0
+549,1984/9/1,2010/12/1,Highest soil temperature at observation time(cover: bare ground,HO31A0
+550,1985/7/1,2010/12/1,Highest soil temperature at observation time(cover: bare ground,HO31P0
+551,1984/9/1,2010/12/1,Highest soil temperature at observation time(cover: bare ground,HO32A0
+552,1985/7/1,2010/12/1,Highest soil temperature at observation time(cover: bare ground,HO32P0
+553,1984/9/1,2010/12/1,Highest soil temperature at observation time(cover: bare ground,HO33A0
+554,1986/4/1,2010/12/1,Highest soil temperature at observation time(cover: bare ground,HO33P0
+555,1984/1/1,2010/12/1,Highest soil temperature at observation time(cover: bare ground,HO34A0
+556,1984/1/1,1988/12/1,Highest soil temperature at observation time(cover: bare ground,HO34A2
+557,1984/1/1,2010/12/1,Highest soil temperature at observation time(cover: bare ground,HO34P0
+558,1984/1/1,2010/12/1,Highest soil temperature at observation time(cover: bare ground,HO35A0
+559,1984/1/1,1989/2/1,Highest soil temperature at observation time(cover: bare ground,HO35A2
+560,1984/10/1,2010/12/1,Highest soil temperature at observation time(cover: bare ground,HO35P0
+561,2006/1/1,2010/12/1,Highest soil temperature at observation time(cover: bare ground,HO36A0
+562,2006/1/1,2010/12/1,Highest soil temperature at observation time(cover: bare ground,HO36P0
+563,2006/1/1,2007/6/1,Highest soil temperature at observation time(cover: bare ground,HO37A0
+564,2006/3/1,2006/4/1,Highest soil temperature at observation time(cover: bare ground,HO37P0
+565,1987/4/1,2010/12/1,Highest soil temperature at observation time(cover: sod,HO51A0
+566,1987/8/1,2010/12/1,Highest soil temperature at observation time(cover: sod,HO51P0
+567,1984/1/1,2010/12/1,Highest soil temperature at observation time(cover: sod,HO52A0
+568,1988/1/1,2010/12/1,Highest soil temperature at observation time(cover: sod,HO52P0
+569,1984/1/1,2010/12/1,Highest soil temperature at observation time(cover: sod,HO53A0
+570,1987/2/1,2010/12/1,Highest soil temperature at observation time(cover: sod,HO53P0
+571,1984/1/1,2010/12/1,Highest soil temperature at observation time(cover: sod,HO54A0
+572,1984/2/1,2010/12/1,Highest soil temperature at observation time(cover: sod,HO54P0
+573,1984/1/1,2010/12/1,Highest soil temperature at observation time(cover: sod,HO55A0
+574,1987/2/1,2010/12/1,Highest soil temperature at observation time(cover: sod,HO55P0
+575,2006/1/1,2010/12/1,Highest soil temperature at observation time(cover: sod,HO56A0
+576,2006/1/1,2010/12/1,Highest soil temperature at observation time(cover: sod,HO56P0
+577,2006/1/1,2010/12/1,Highest soil temperature at observation time(cover: sod,HO57A0
+578,2006/1/1,2010/9/1,Highest soil temperature at observation time(cover: sod,HO57P0
+579,1990/1/1,1990/10/1,Highest soil temperature at observation time(cover: bare muck,HO84A0
+580,1984/1/1,1989/2/1,Highest soil temperature at observation time(cover: bare muck,HO84A3
+581,1989/3/1,1990/10/1,Highest soil temperature at observation time(cover: bare muck,HO85A0
+582,1984/1/1,1988/12/1,Highest soil temperature at observation time(cover: bare muck,HO85A3
+583,1781-01-04,2021/3/7,Precipitation,HPCP
+584,1840-10-24,2021/3/6,Highest snowfall,HSNW
+585,1763-01-01,2021/2/1,Heating degree days,HTDD
+586,1763-01-01,2021/3/7,Highest minimum temperature,HTMN
+587,1763-01-01,2021/3/7,Highest maximum temperature,HTMX
+588,1982/1/1,2021/1/1,Highest maximum soil temperature for the month (degrees F),HX01
+589,1984/1/1,2009/8/1,Highest maximum soil temperature for the month(cover: unknown,HX0190
+590,1982/1/1,2021/1/1,Highest maximum soil temperature for the month (degrees F),HX02
+591,1984/1/1,2010/12/1,Highest maximum soil temperature for the month(cover: unknown,HX0290
+592,2011/1/1,2012/1/1,Highest maximum soil temperature for the month(cover: unknown,HX0299
+593,1982/1/1,2021/1/1,Highest maximum soil temperature for the month (degrees F),HX03
+594,1984/1/1,2009/12/1,Highest maximum soil temperature for the month(cover: unknown,HX0390
+595,1982/1/1,2021/1/1,Highest maximum soil temperature for the month (degrees F),HX04
+596,1982/1/1,2021/1/1,Highest maximum soil temperature for the month (degrees F),HX05
+597,1982/1/1,2020/11/1,Highest maximum soil temperature for the month (degrees F),HX06
+598,1982/6/1,2020/11/1,Highest maximum soil temperature for the month (degrees F),HX07
+599,1982/6/1,2020/11/1,Highest maximum soil temperature for the month (degrees F),HX08
+600,1984/1/1,2010/12/1,Highest maximum soil temperature for the month(cover: grass,HX1190
+601,1984/1/1,1985/7/1,Highest maximum soil temperature for the month(cover: grass,HX1191
+602,1984/1/1,2010/12/1,Highest maximum soil temperature for the month(cover: grass,HX1290
+603,1984/1/1,1989/7/1,Highest maximum soil temperature for the month(cover: grass,HX1291
+604,2011/1/1,2012/9/1,Highest maximum soil temperature for the month(cover: grass,HX1299
+605,1984/1/1,2010/12/1,Highest maximum soil temperature for the month(cover: grass,HX1390
+606,1984/1/1,1989/7/1,Highest maximum soil temperature for the month(cover: grass,HX1391
+607,2011/1/1,2011/1/1,Highest maximum soil temperature for the month(cover: grass,HX1399
+608,2009/3/1,2010/12/1,Highest maximum soil temperature for the month(cover: grass,HX1490
+609,2011/1/1,2011/2/1,Highest maximum soil temperature for the month(cover: grass,HX1499
+610,2011/8/1,2012/6/1,Highest maximum soil temperature for the month(cover: grass,HX1599
+611,2011/8/1,2012/6/1,Highest maximum soil temperature for the month(cover: grass,HX1799
+612,1989/8/1,2010/12/1,Highest maximum soil temperature for the month(cover: fallow,HX2190
+613,1984/1/1,1988/12/1,Highest maximum soil temperature for the month(cover: fallow,HX2192
+614,1990/1/1,2010/12/1,Highest maximum soil temperature for the month(cover: fallow,HX2290
+615,1984/1/1,1989/7/1,Highest maximum soil temperature for the month(cover: fallow,HX2292
+616,1989/8/1,2010/12/1,Highest maximum soil temperature for the month(cover: fallow,HX2390
+617,1984/1/1,1988/12/1,Highest maximum soil temperature for the month(cover: fallow,HX2392
+618,1984/1/1,2010/12/1,Highest maximum soil temperature for the month(cover: bare ground,HX3190
+619,1984/1/1,1988/12/1,Highest maximum soil temperature for the month(cover: bare ground,HX3192
+620,2011/1/1,2015/11/1,Highest maximum soil temperature for the month(cover: bare ground,HX3199
+621,1984/1/1,2010/12/1,Highest maximum soil temperature for the month(cover: bare ground,HX3290
+622,1984/1/1,1989/2/1,Highest maximum soil temperature for the month(cover: bare ground,HX3292
+623,2011/1/1,2015/11/1,Highest maximum soil temperature for the month(cover: bare ground,HX3299
+624,1984/1/1,2010/12/1,Highest maximum soil temperature for the month(cover: bare ground,HX3390
+625,1984/1/1,1988/12/1,Highest maximum soil temperature for the month(cover: bare ground,HX3392
+626,2011/1/1,2015/11/1,Highest maximum soil temperature for the month(cover: bare ground,HX3399
+627,2004/8/1,2010/12/1,Highest maximum soil temperature for the month(cover: bare ground,HX3490
+628,2011/1/1,2011/9/1,Highest maximum soil temperature for the month(cover: bare ground,HX3499
+629,2004/8/1,2010/12/1,Highest maximum soil temperature for the month(cover: bare ground,HX3590
+630,2011/1/1,2015/11/1,Highest maximum soil temperature for the month(cover: bare ground,HX3599
+631,2011/1/1,2015/11/1,Highest maximum soil temperature for the month(cover: bare ground,HX3699
+632,1984/1/1,2010/12/1,Highest maximum soil temperature for the month(cover: sod,HX5190
+633,2011/1/1,2015/11/1,Highest maximum soil temperature for the month(cover: sod,HX5199
+634,1984/1/1,2010/12/1,Highest maximum soil temperature for the month(cover: sod,HX5290
+635,1984/1/1,1988/12/1,Highest maximum soil temperature for the month(cover: sod,HX5291
+636,2011/1/1,2015/11/1,Highest maximum soil temperature for the month(cover: sod,HX5299
+637,1984/1/1,2010/12/1,Highest maximum soil temperature for the month(cover: sod,HX5390
+638,2011/1/1,2015/11/1,Highest maximum soil temperature for the month(cover: sod,HX5399
+639,2002/3/1,2010/12/1,Highest maximum soil temperature for the month(cover: sod,HX5490
+640,2011/1/1,2011/12/1,Highest maximum soil temperature for the month(cover: sod,HX5499
+641,2002/3/1,2009/2/1,Highest maximum soil temperature for the month(cover: sod,HX5590
+642,2011/1/1,2015/11/1,Highest maximum soil temperature for the month(cover: sod,HX5599
+643,2012/9/1,2015/11/1,Highest maximum soil temperature for the month(cover: sod,HX5699
+644,1984/1/1,1996/11/1,Highest maximum soil temperature for the month(cover: straw mulch,HX6190
+645,1989/3/1,1990/10/1,Highest maximum soil temperature for the month(cover: grass muck,HX7290
+646,1984/1/1,1988/12/1,Highest maximum soil temperature for the month(cover: grass muck,HX7293
+647,1989/3/1,1990/10/1,Highest maximum soil temperature for the month(cover: bare muck,HX8190
+648,1984/1/1,1988/12/1,Highest maximum soil temperature for the month(cover: bare muck,HX8193
+649,1990/1/1,1990/10/1,Highest maximum soil temperature for the month(cover: bare muck,HX8290
+650,1984/1/1,1989/2/1,Highest maximum soil temperature for the month(cover: bare muck,HX8293
+651,1990/1/1,1990/10/1,Highest maximum soil temperature for the month(cover: bare muck,HX8390
+652,1984/1/1,1989/2/1,Highest maximum soil temperature for the month(cover: bare muck,HX8393
+653,2010/1/1,2010/1/1,Long-term averages of summer cooling degree days with base 45F,JJA-CLDD-BASE45
+654,2010/1/1,2010/1/1,Long-term averages of summer cooling degree days with base 50F,JJA-CLDD-BASE50
+655,2010/1/1,2010/1/1,Long-term averages of summer cooling degree days with base 55F,JJA-CLDD-BASE55
+656,2010/1/1,2010/1/1,Long-term averages of summer cooling degree days with base 57F,JJA-CLDD-BASE57
+657,2010/1/1,2010/1/1,Long-term averages of summer cooling degree days with base 60F,JJA-CLDD-BASE60
+658,2010/1/1,2010/1/1,Long-term averages of summer cooling degree days with base 70F,JJA-CLDD-BASE70
+659,2010/1/1,2010/1/1,Long-term averages of summer cooling degree days with base 72F,JJA-CLDD-BASE72
+660,2010/1/1,2010/1/1,Long-term averages of summer cooling degree days with base 65F,JJA-CLDD-NORMAL
+661,2010/1/1,2010/1/1,Long-term averages of summer diurnal temperature range,JJA-DUTR-NORMAL
+662,2010/1/1,2010/1/1,Long-term averages of summer growing degree days with base 40F,JJA-GRDD-BASE40
+663,2010/1/1,2010/1/1,Long-term averages of summer growing degree days with base 45F,JJA-GRDD-BASE45
+664,2010/1/1,2010/1/1,Long-term averages of summer growing degree days with base 50F,JJA-GRDD-BASE50
+665,2010/1/1,2010/1/1,Long-term averages of summer growing degree days with base 55F,JJA-GRDD-BASE55
+666,2010/1/1,2010/1/1,Long-term averages of summer growing degree days with base 57F,JJA-GRDD-BASE57
+667,2010/1/1,2010/1/1,Long-term averages of summer growing degree days with base 60F,JJA-GRDD-BASE60
+668,2010/1/1,2010/1/1,Long-term averages of summer growing degree days with base 65F,JJA-GRDD-BASE65
+669,2010/1/1,2010/1/1,Long-term averages of summer growing degree days with base 70F,JJA-GRDD-BASE70
+670,2010/1/1,2010/1/1,Long-term averages of summer growing degree days with base 72F,JJA-GRDD-BASE72
+671,2010/1/1,2010/1/1,Long-term averages of summer growing degree days with truncated bases 48F and 86F,JJA-GRDD-TB4886
+672,2010/1/1,2010/1/1,Long-term averages of summer growing degree days with truncated bases 50F and 86F,JJA-GRDD-TB5086
+673,2010/1/1,2010/1/1,Long-term averages of summer heating degree days with base 40F,JJA-HTDD-BASE40
+674,2010/1/1,2010/1/1,Long-term averages of summer heating degree days with base 45F,JJA-HTDD-BASE45
+675,2010/1/1,2010/1/1,Long-term averages of summer heating degree days with base 50F,JJA-HTDD-BASE50
+676,2010/1/1,2010/1/1,Long-term averages of summer heating degree days with base 55F,JJA-HTDD-BASE55
+677,2010/1/1,2010/1/1,Long-term averages of summer heating degree days with base 57F,JJA-HTDD-BASE57
+678,2010/1/1,2010/1/1,Long-term averages of summer heating degree days with base 60F,JJA-HTDD-BASE60
+679,2010/1/1,2010/1/1,Long-term averages of summer heating degree days with base 65F,JJA-HTDD-NORMAL
+680,2010/1/1,2010/1/1,Long-term averages of number of days during June-August with precipitation >= 0.01 inches,JJA-PRCP-AVGNDS-GE001HI
+681,2010/1/1,2010/1/1,Long-term averages of number of days during June-August with precipitation >= 0.10 inches,JJA-PRCP-AVGNDS-GE010HI
+682,2010/1/1,2010/1/1,Long-term averages of number of days during June-August with precipitation >= 0.50 inches,JJA-PRCP-AVGNDS-GE050HI
+683,2010/1/1,2010/1/1,Long-term averages of number of days during June-August with precipitation >= 1.00 inches,JJA-PRCP-AVGNDS-GE100HI
+684,2010/1/1,2010/1/1,Long-term averages of seasonal precipitation totals for June-August,JJA-PRCP-NORMAL
+685,2010/1/1,2010/1/1,Long-term averages of number of days during June-August with snowfall >= 0.1 inches,JJA-SNOW-AVGNDS-GE001TI
+686,2010/1/1,2010/1/1,Long-term averages of number of days during June-August with snowfall >= 1.0 inches,JJA-SNOW-AVGNDS-GE010TI
+687,2010/1/1,2010/1/1,Long-term averages of number of days during June-August with snowfall >= 3.0 inches,JJA-SNOW-AVGNDS-GE030TI
+688,2010/1/1,2010/1/1,Long-term averages of number of days during June-August with snowfall >= 5.0 inches,JJA-SNOW-AVGNDS-GE050TI
+689,2010/1/1,2010/1/1,Long-term averages of number of days during June-August with snowfall >= 10.0 inches,JJA-SNOW-AVGNDS-GE100TI
+690,2010/1/1,2010/1/1,Long-term averages of seasonal snowfall totals for June-August,JJA-SNOW-NORMAL
+691,2010/1/1,2010/1/1,Long-term averages of number of days during June-August with snow depth >= 1 inch,JJA-SNWD-AVGNDS-GE001WI
+692,2010/1/1,2010/1/1,Long-term averages of number of days during June-August with snow depth >= 3 inches,JJA-SNWD-AVGNDS-GE003WI
+693,2010/1/1,2010/1/1,Long-term averages of number of days during June-August with snow depth >= 5 inches,JJA-SNWD-AVGNDS-GE005WI
+694,2010/1/1,2010/1/1,Long-term averages of number of days during June-August with snow depth >= 10 inches,JJA-SNWD-AVGNDS-GE010WI
+695,2010/1/1,2010/1/1,Long-term averages of summer average temperature,JJA-TAVG-NORMAL
+696,2010/1/1,2010/1/1,Long-term average number of days per summer where tmax is greater than or equal to 40F,JJA-TMAX-AVGNDS-GRTH040
+697,2010/1/1,2010/1/1,Long-term average number of days per summer where tmax is greater than or equal to 50F,JJA-TMAX-AVGNDS-GRTH050
+698,2010/1/1,2010/1/1,Long-term average number of days per summer where tmax is greater than or equal to 60F,JJA-TMAX-AVGNDS-GRTH060
+699,2010/1/1,2010/1/1,Long-term average number of days per summer where tmax is greater than or equal to 70F,JJA-TMAX-AVGNDS-GRTH070
+700,2010/1/1,2010/1/1,Long-term average number of days per summer where tmax is greater than or equal to 80F,JJA-TMAX-AVGNDS-GRTH080
+701,2010/1/1,2010/1/1,Long-term average number of days per summer where tmax is greater than or equal to 90F,JJA-TMAX-AVGNDS-GRTH090
+702,2010/1/1,2010/1/1,Long-term average number of days per summer where tmax is greater than or equal to 100F,JJA-TMAX-AVGNDS-GRTH100
+703,2010/1/1,2010/1/1,Long-term average number of days per summer where tmax is less than or equal to 32F,JJA-TMAX-AVGNDS-LSTH032
+704,2010/1/1,2010/1/1,Long-term averages of summer maximum temperature,JJA-TMAX-NORMAL
+705,2010/1/1,2010/1/1,Long-term average number of days per summer where tmin is less than or equal to 0F,JJA-TMIN-AVGNDS-LSTH000
+706,2010/1/1,2010/1/1,Long-term average number of days per summer where tmin is less than or equal to 10F,JJA-TMIN-AVGNDS-LSTH010
+707,2010/1/1,2010/1/1,Long-term average number of days per summer where tmin is less than or equal to 20F,JJA-TMIN-AVGNDS-LSTH020
+708,2010/1/1,2010/1/1,Long-term average number of days per summer where tmin is less than or equal to 32F,JJA-TMIN-AVGNDS-LSTH032
+709,2010/1/1,2010/1/1,Long-term average number of days per summer where tmin is less than or equal to 40F,JJA-TMIN-AVGNDS-LSTH040
+710,2010/1/1,2010/1/1,Long-term average number of days per summer where tmin is less than or equal to 50F,JJA-TMIN-AVGNDS-LSTH050
+711,2010/1/1,2010/1/1,Long-term average number of days per summer where tmin is less than or equal to 60F,JJA-TMIN-AVGNDS-LSTH060
+712,2010/1/1,2010/1/1,Long-term average number of days per summer where tmin is less than or equal to 70F,JJA-TMIN-AVGNDS-LSTH070
+713,2010/1/1,2010/1/1,Long-term averages of summer minimum temperature,JJA-TMIN-NORMAL
+714,1982/1/1,2021/1/1,Lowest minimum soil temperature for the month (degrees F),LN01
+715,1984/1/1,2009/8/1,Lowest minimum soil temperature for the month(cover: unknown,LN0190
+716,1982/1/1,2021/1/1,Lowest minimum soil temperature for the month (degrees F),LN02
+717,1984/1/1,2010/12/1,Lowest minimum soil temperature for the month(cover: unknown,LN0290
+718,2011/1/1,2012/1/1,Lowest minimum soil temperature for the month(cover: unknown,LN0299
+719,1982/1/1,2021/1/1,Lowest minimum soil temperature for the month (degrees F),LN03
+720,1984/1/1,2009/12/1,Lowest minimum soil temperature for the month(cover: unknown,LN0390
+721,1982/1/1,2020/12/1,Lowest minimum soil temperature for the month (degrees F),LN04
+722,1982/1/1,2020/11/1,Lowest minimum soil temperature for the month (degrees F),LN05
+723,1982/1/1,2020/11/1,Lowest minimum soil temperature for the month (degrees F),LN06
+724,1982/6/1,2020/11/1,Lowest minimum soil temperature for the month (degrees F),LN07
+725,1982/6/1,2020/11/1,Lowest minimum soil temperature for the month (degrees F),LN08
+726,1984/1/1,2010/12/1,Lowest minimum soil temperature for the month(cover: grass,LN1190
+727,1984/1/1,1985/7/1,Lowest minimum soil temperature for the month(cover: grass,LN1191
+728,1984/1/1,2010/12/1,Lowest minimum soil temperature for the month(cover: grass,LN1290
+729,1984/1/1,1989/7/1,Lowest minimum soil temperature for the month(cover: grass,LN1291
+730,2011/1/1,2012/9/1,Lowest minimum soil temperature for the month(cover: grass,LN1299
+731,1984/1/1,2010/12/1,Lowest minimum soil temperature for the month(cover: grass,LN1390
+732,1984/1/1,1989/7/1,Lowest minimum soil temperature for the month(cover: grass,LN1391
+733,2011/1/1,2011/1/1,Lowest minimum soil temperature for the month(cover: grass,LN1399
+734,2010/1/1,2010/12/1,Lowest minimum soil temperature for the month(cover: grass,LN1490
+735,2011/1/1,2011/1/1,Lowest minimum soil temperature for the month(cover: grass,LN1499
+736,1990/1/1,2010/12/1,Lowest minimum soil temperature for the month(cover: fallow,LN2190
+737,1984/1/1,1989/7/1,Lowest minimum soil temperature for the month(cover: fallow,LN2192
+738,1990/1/1,2010/12/1,Lowest minimum soil temperature for the month(cover: fallow,LN2290
+739,1984/1/1,1989/7/1,Lowest minimum soil temperature for the month(cover: fallow,LN2292
+740,1990/1/1,2010/12/1,Lowest minimum soil temperature for the month(cover: fallow,LN2390
+741,1984/1/1,1989/7/1,Lowest minimum soil temperature for the month(cover: fallow,LN2392
+742,1984/1/1,2010/12/1,Lowest minimum soil temperature for the month(cover: bare ground,LN3190
+743,1984/1/1,1988/12/1,Lowest minimum soil temperature for the month(cover: bare ground,LN3192
+744,2011/1/1,2015/11/1,Lowest minimum soil temperature for the month(cover: bare ground,LN3199
+745,1984/1/1,2010/12/1,Lowest minimum soil temperature for the month(cover: bare ground,LN3290
+746,1984/1/1,1988/12/1,Lowest minimum soil temperature for the month(cover: bare ground,LN3292
+747,2011/1/1,2015/11/1,Lowest minimum soil temperature for the month(cover: bare ground,LN3299
+748,1984/1/1,2010/12/1,Lowest minimum soil temperature for the month(cover: bare ground,LN3390
+749,1984/1/1,1988/12/1,Lowest minimum soil temperature for the month(cover: bare ground,LN3392
+750,2011/1/1,2015/11/1,Lowest minimum soil temperature for the month(cover: bare ground,LN3399
+751,2004/8/1,2010/12/1,Lowest minimum soil temperature for the month(cover: bare ground,LN3490
+752,2011/1/1,2011/9/1,Lowest minimum soil temperature for the month(cover: bare ground,LN3499
+753,2004/8/1,2010/12/1,Lowest minimum soil temperature for the month(cover: bare ground,LN3590
+754,2011/1/1,2015/11/1,Lowest minimum soil temperature for the month(cover: bare ground,LN3599
+755,2006/4/1,2006/4/1,Lowest minimum soil temperature for the month(cover: bare ground,LN3690
+756,2011/1/1,2015/11/1,Lowest minimum soil temperature for the month(cover: bare ground,LN3699
+757,1984/1/1,2010/12/1,Lowest minimum soil temperature for the month(cover: sod,LN5190
+758,2011/1/1,2015/11/1,Lowest minimum soil temperature for the month(cover: sod,LN5199
+759,1984/1/1,2010/12/1,Lowest minimum soil temperature for the month(cover: sod,LN5290
+760,1984/1/1,1989/2/1,Lowest minimum soil temperature for the month(cover: sod,LN5291
+761,2011/1/1,2015/11/1,Lowest minimum soil temperature for the month(cover: sod,LN5299
+762,1984/1/1,2010/12/1,Lowest minimum soil temperature for the month(cover: sod,LN5390
+763,2011/1/1,2015/11/1,Lowest minimum soil temperature for the month(cover: sod,LN5399
+764,2002/3/1,2010/12/1,Lowest minimum soil temperature for the month(cover: sod,LN5490
+765,2011/1/1,2011/12/1,Lowest minimum soil temperature for the month(cover: sod,LN5499
+766,2002/3/1,2009/2/1,Lowest minimum soil temperature for the month(cover: sod,LN5590
+767,2011/1/1,2015/11/1,Lowest minimum soil temperature for the month(cover: sod,LN5599
+768,2012/9/1,2015/11/1,Lowest minimum soil temperature for the month(cover: sod,LN5699
+769,1984/1/1,1993/1/1,Lowest minimum soil temperature for the month(cover: straw mulch,LN6190
+770,1990/1/1,1990/10/1,Lowest minimum soil temperature for the month(cover: grass muck,LN7290
+771,1984/1/1,1989/2/1,Lowest minimum soil temperature for the month(cover: grass muck,LN7293
+772,1989/3/1,1990/10/1,Lowest minimum soil temperature for the month(cover: bare muck,LN8190
+773,1984/1/1,1988/12/1,Lowest minimum soil temperature for the month(cover: bare muck,LN8193
+774,1990/1/1,1990/10/1,Lowest minimum soil temperature for the month(cover: bare muck,LN8290
+775,1984/1/1,1989/2/1,Lowest minimum soil temperature for the month(cover: bare muck,LN8293
+776,1990/1/1,1990/10/1,Lowest minimum soil temperature for the month(cover: bare muck,LN8390
+777,1984/1/1,1989/2/1,Lowest minimum soil temperature for the month(cover: bare muck,LN8393
+778,1984/1/1,2007/12/1,Lowest soil temperature at observation time(cover: unknown,LO01A0
+779,1984/1/1,2009/4/1,Lowest soil temperature at observation time(cover: unknown,LO01P0
+780,1984/1/1,1984/12/1,Lowest soil temperature at observation time(cover: unknown,LO01P1
+781,1985/1/1,1989/6/1,Lowest soil temperature at observation time(cover: unknown,LO01P2
+782,1984/1/1,2007/12/1,Lowest soil temperature at observation time(cover: unknown,LO02A0
+783,1984/1/1,2009/4/1,Lowest soil temperature at observation time(cover: unknown,LO02P0
+784,1985/1/1,1985/12/1,Lowest soil temperature at observation time(cover: unknown,LO02P1
+785,1984/1/1,1989/6/1,Lowest soil temperature at observation time(cover: unknown,LO02P2
+786,1984/1/1,2006/12/1,Lowest soil temperature at observation time(cover: unknown,LO03A0
+787,1984/1/1,2009/4/1,Lowest soil temperature at observation time(cover: unknown,LO03P0
+788,1984/1/1,1986/12/1,Lowest soil temperature at observation time(cover: unknown,LO03P1
+789,1988/1/1,1989/6/1,Lowest soil temperature at observation time(cover: unknown,LO03P2
+790,1984/1/1,2007/6/1,Lowest soil temperature at observation time(cover: unknown,LO04A0
+791,1984/1/1,2009/12/1,Lowest soil temperature at observation time(cover: unknown,LO04P0
+792,1985/1/1,1989/6/1,Lowest soil temperature at observation time(cover: unknown,LO04P1
+793,1984/1/1,1988/12/1,Lowest soil temperature at observation time(cover: unknown,LO04P2
+794,1984/1/1,2009/8/1,Lowest soil temperature at observation time(cover: unknown,LO05A0
+795,1984/1/1,2009/12/1,Lowest soil temperature at observation time(cover: unknown,LO05P0
+796,1984/1/1,1984/12/1,Lowest soil temperature at observation time(cover: unknown,LO05P1
+797,1985/1/1,1989/6/1,Lowest soil temperature at observation time(cover: unknown,LO05P2
+798,2006/1/1,2009/4/1,Lowest soil temperature at observation time(cover: unknown,LO07P0
+799,1984/1/1,2010/12/1,Lowest soil temperature at observation time(cover: grass,LO11A0
+800,2004/1/1,2010/12/1,Lowest soil temperature at observation time(cover: grass,LO11P0
+801,1984/1/1,2010/12/1,Lowest soil temperature at observation time(cover: grass,LO12A0
+802,1992/4/1,2010/12/1,Lowest soil temperature at observation time(cover: grass,LO12P0
+803,1984/1/1,2010/12/1,Lowest soil temperature at observation time(cover: grass,LO13A0
+804,2000/6/1,2010/12/1,Lowest soil temperature at observation time(cover: grass,LO13P0
+805,1984/1/1,2010/12/1,Lowest soil temperature at observation time(cover: grass,LO14A0
+806,1984/1/1,1985/7/1,Lowest soil temperature at observation time(cover: grass,LO14A1
+807,2000/6/1,2010/12/1,Lowest soil temperature at observation time(cover: grass,LO14P0
+808,1984/1/1,2010/12/1,Lowest soil temperature at observation time(cover: grass,LO15A0
+809,1984/1/1,1985/7/1,Lowest soil temperature at observation time(cover: grass,LO15A1
+810,2000/6/1,2010/12/1,Lowest soil temperature at observation time(cover: grass,LO15P0
+811,2006/1/1,2010/12/1,Lowest soil temperature at observation time(cover: grass,LO16A0
+812,2007/1/1,2010/12/1,Lowest soil temperature at observation time(cover: grass,LO16P0
+813,2006/1/1,2010/12/1,Lowest soil temperature at observation time(cover: grass,LO17A0
+814,2006/1/1,2010/6/1,Lowest soil temperature at observation time(cover: grass,LO17P0
+815,1984/1/1,1984/10/1,Lowest soil temperature at observation time(cover: fallow,LO21A0
+816,1984/1/1,1984/10/1,Lowest soil temperature at observation time(cover: fallow,LO22A0
+817,1984/1/1,1984/10/1,Lowest soil temperature at observation time(cover: fallow,LO23A0
+818,1984/1/1,1984/10/1,Lowest soil temperature at observation time(cover: fallow,LO24A0
+819,1984/1/1,1984/10/1,Lowest soil temperature at observation time(cover: fallow,LO25A0
+820,1984/9/1,2010/12/1,Lowest soil temperature at observation time(cover: bare ground,LO31A0
+821,1985/4/1,2010/12/1,Lowest soil temperature at observation time(cover: bare ground,LO31P0
+822,1984/9/1,2010/12/1,Lowest soil temperature at observation time(cover: bare ground,LO32A0
+823,1985/4/1,2010/12/1,Lowest soil temperature at observation time(cover: bare ground,LO32P0
+824,1984/9/1,2010/12/1,Lowest soil temperature at observation time(cover: bare ground,LO33A0
+825,1986/4/1,2010/12/1,Lowest soil temperature at observation time(cover: bare ground,LO33P0
+826,1984/1/1,2010/12/1,Lowest soil temperature at observation time(cover: bare ground,LO34A0
+827,1984/1/1,1988/12/1,Lowest soil temperature at observation time(cover: bare ground,LO34A2
+828,1984/1/1,2010/12/1,Lowest soil temperature at observation time(cover: bare ground,LO34P0
+829,1984/1/1,2010/12/1,Lowest soil temperature at observation time(cover: bare ground,LO35A0
+830,1984/1/1,1989/2/1,Lowest soil temperature at observation time(cover: bare ground,LO35A2
+831,1984/10/1,2010/12/1,Lowest soil temperature at observation time(cover: bare ground,LO35P0
+832,2006/1/1,2010/12/1,Lowest soil temperature at observation time(cover: bare ground,LO36A0
+833,2006/1/1,2010/12/1,Lowest soil temperature at observation time(cover: bare ground,LO36P0
+834,2006/1/1,2007/6/1,Lowest soil temperature at observation time(cover: bare ground,LO37A0
+835,2006/3/1,2006/4/1,Lowest soil temperature at observation time(cover: bare ground,LO37P0
+836,1988/4/1,2010/12/1,Lowest soil temperature at observation time(cover: sod,LO51A0
+837,1987/4/1,2010/12/1,Lowest soil temperature at observation time(cover: sod,LO51P0
+838,1984/1/1,2010/12/1,Lowest soil temperature at observation time(cover: sod,LO52A0
+839,1987/3/1,2010/12/1,Lowest soil temperature at observation time(cover: sod,LO52P0
+840,1984/1/1,2010/12/1,Lowest soil temperature at observation time(cover: sod,LO53A0
+841,1987/2/1,2010/12/1,Lowest soil temperature at observation time(cover: sod,LO53P0
+842,1984/1/1,2010/12/1,Lowest soil temperature at observation time(cover: sod,LO54A0
+843,1984/2/1,2010/12/1,Lowest soil temperature at observation time(cover: sod,LO54P0
+844,1984/1/1,2010/12/1,Lowest soil temperature at observation time(cover: sod,LO55A0
+845,1987/2/1,2010/12/1,Lowest soil temperature at observation time(cover: sod,LO55P0
+846,2006/1/1,2010/12/1,Lowest soil temperature at observation time(cover: sod,LO56A0
+847,2006/1/1,2010/12/1,Lowest soil temperature at observation time(cover: sod,LO56P0
+848,2006/1/1,2010/12/1,Lowest soil temperature at observation time(cover: sod,LO57A0
+849,2006/1/1,2010/9/1,Lowest soil temperature at observation time(cover: sod,LO57P0
+850,1989/3/1,1990/10/1,Lowest soil temperature at observation time(cover: bare muck,LO84A0
+851,1984/1/1,1988/12/1,Lowest soil temperature at observation time(cover: bare muck,LO84A3
+852,1990/1/1,1990/10/1,Lowest soil temperature at observation time(cover: bare muck,LO85A0
+853,1984/1/1,1989/2/1,Lowest soil temperature at observation time(cover: bare muck,LO85A3
+854,1763-01-01,2021/3/7,Lowest minimum temperature,LTMN
+855,1763-01-01,2021/3/6,Lowest maximum temperature,LTMX
+856,1982/1/1,2021/1/1,Lowest maximum soil temperature for the month (degrees F),LX01
+857,1984/1/1,2009/8/1,Lowest maximum soil temperature for the month(cover: unknown,LX0190
+858,1982/1/1,2021/1/1,Lowest maximum soil temperature for the month (degrees F),LX02
+859,1984/1/1,2010/12/1,Lowest maximum soil temperature for the month(cover: unknown,LX0290
+860,2011/1/1,2012/1/1,Lowest maximum soil temperature for the month(cover: unknown,LX0299
+861,1982/1/1,2021/1/1,Lowest maximum soil temperature for the month (degrees F),LX03
+862,1984/1/1,2009/12/1,Lowest maximum soil temperature for the month(cover: unknown,LX0390
+863,1982/1/1,2021/1/1,Lowest maximum soil temperature for the month (degrees F),LX04
+864,1982/1/1,2021/1/1,Lowest maximum soil temperature for the month (degrees F),LX05
+865,1982/1/1,2020/11/1,Lowest maximum soil temperature for the month (degrees F),LX06
+866,1982/6/1,2020/11/1,Lowest maximum soil temperature for the month (degrees F),LX07
+867,1982/6/1,2020/11/1,Lowest maximum soil temperature for the month (degrees F),LX08
+868,1984/1/1,2010/12/1,Lowest maximum soil temperature for the month(cover: grass,LX1190
+869,1984/1/1,1985/7/1,Lowest maximum soil temperature for the month(cover: grass,LX1191
+870,1984/1/1,2010/12/1,Lowest maximum soil temperature for the month(cover: grass,LX1290
+871,1984/1/1,1988/12/1,Lowest maximum soil temperature for the month(cover: grass,LX1291
+872,2011/1/1,2012/9/1,Lowest maximum soil temperature for the month(cover: grass,LX1299
+873,1984/1/1,2010/12/1,Lowest maximum soil temperature for the month(cover: grass,LX1390
+874,1984/1/1,1988/12/1,Lowest maximum soil temperature for the month(cover: grass,LX1391
+875,2011/1/1,2011/1/1,Lowest maximum soil temperature for the month(cover: grass,LX1399
+876,2009/3/1,2010/12/1,Lowest maximum soil temperature for the month(cover: grass,LX1490
+877,2011/1/1,2011/2/1,Lowest maximum soil temperature for the month(cover: grass,LX1499
+878,2011/8/1,2012/6/1,Lowest maximum soil temperature for the month(cover: grass,LX1599
+879,2011/8/1,2012/6/1,Lowest maximum soil temperature for the month(cover: grass,LX1799
+880,1989/8/1,2010/12/1,Lowest maximum soil temperature for the month(cover: fallow,LX2190
+881,1984/1/1,1988/12/1,Lowest maximum soil temperature for the month(cover: fallow,LX2192
+882,1989/8/1,2010/12/1,Lowest maximum soil temperature for the month(cover: fallow,LX2290
+883,1984/1/1,1988/12/1,Lowest maximum soil temperature for the month(cover: fallow,LX2292
+884,1989/8/1,2010/12/1,Lowest maximum soil temperature for the month(cover: fallow,LX2390
+885,1984/1/1,1988/12/1,Lowest maximum soil temperature for the month(cover: fallow,LX2392
+886,1984/1/1,2010/12/1,Lowest maximum soil temperature for the month(cover: bare ground,LX3190
+887,1984/1/1,1989/2/1,Lowest maximum soil temperature for the month(cover: bare ground,LX3192
+888,2011/1/1,2015/11/1,Lowest maximum soil temperature for the month(cover: bare ground,LX3199
+889,1984/1/1,2010/12/1,Lowest maximum soil temperature for the month(cover: bare ground,LX3290
+890,1984/1/1,1988/12/1,Lowest maximum soil temperature for the month(cover: bare ground,LX3292
+891,2011/1/1,2015/11/1,Lowest maximum soil temperature for the month(cover: bare ground,LX3299
+892,1984/1/1,2010/12/1,Lowest maximum soil temperature for the month(cover: bare ground,LX3390
+893,1984/1/1,1988/12/1,Lowest maximum soil temperature for the month(cover: bare ground,LX3392
+894,2011/1/1,2015/11/1,Lowest maximum soil temperature for the month(cover: bare ground,LX3399
+895,2004/8/1,2010/12/1,Lowest maximum soil temperature for the month(cover: bare ground,LX3490
+896,2011/1/1,2011/9/1,Lowest maximum soil temperature for the month(cover: bare ground,LX3499
+897,2004/8/1,2010/12/1,Lowest maximum soil temperature for the month(cover: bare ground,LX3590
+898,2011/1/1,2015/11/1,Lowest maximum soil temperature for the month(cover: bare ground,LX3599
+899,2011/1/1,2015/11/1,Lowest maximum soil temperature for the month(cover: bare ground,LX3699
+900,1984/1/1,2010/12/1,Lowest maximum soil temperature for the month(cover: sod,LX5190
+901,2011/1/1,2015/11/1,Lowest maximum soil temperature for the month(cover: sod,LX5199
+902,1984/1/1,2010/12/1,Lowest maximum soil temperature for the month(cover: sod,LX5290
+903,1984/1/1,1989/2/1,Lowest maximum soil temperature for the month(cover: sod,LX5291
+904,2011/1/1,2015/11/1,Lowest maximum soil temperature for the month(cover: sod,LX5299
+905,1984/1/1,2010/12/1,Lowest maximum soil temperature for the month(cover: sod,LX5390
+906,2011/1/1,2015/11/1,Lowest maximum soil temperature for the month(cover: sod,LX5399
+907,2002/3/1,2010/12/1,Lowest maximum soil temperature for the month(cover: sod,LX5490
+908,2011/1/1,2011/12/1,Lowest maximum soil temperature for the month(cover: sod,LX5499
+909,2002/3/1,2009/2/1,Lowest maximum soil temperature for the month(cover: sod,LX5590
+910,2011/1/1,2015/11/1,Lowest maximum soil temperature for the month(cover: sod,LX5599
+911,2012/9/1,2015/11/1,Lowest maximum soil temperature for the month(cover: sod,LX5699
+912,1984/1/1,1996/11/1,Lowest maximum soil temperature for the month(cover: straw mulch,LX6190
+913,1990/1/1,1990/10/1,Lowest maximum soil temperature for the month(cover: grass muck,LX7290
+914,1984/1/1,1989/2/1,Lowest maximum soil temperature for the month(cover: grass muck,LX7293
+915,1990/1/1,1990/10/1,Lowest maximum soil temperature for the month(cover: bare muck,LX8190
+916,1984/1/1,1989/2/1,Lowest maximum soil temperature for the month(cover: bare muck,LX8193
+917,1989/3/1,1990/10/1,Lowest maximum soil temperature for the month(cover: bare muck,LX8290
+918,1984/1/1,1988/12/1,Lowest maximum soil temperature for the month(cover: bare muck,LX8293
+919,1989/3/1,1990/10/1,Lowest maximum soil temperature for the month(cover: bare muck,LX8390
+920,1984/1/1,1988/12/1,Lowest maximum soil temperature for the month(cover: bare muck,LX8393
+921,2010/1/1,2010/1/1,Long-term averages of spring cooling degree days with base 45F,MAM-CLDD-BASE45
+922,2010/1/1,2010/1/1,Long-term averages of spring cooling degree days with base 50F,MAM-CLDD-BASE50
+923,2010/1/1,2010/1/1,Long-term averages of spring cooling degree days with base 55F,MAM-CLDD-BASE55
+924,2010/1/1,2010/1/1,Long-term averages of spring cooling degree days with base 57F,MAM-CLDD-BASE57
+925,2010/1/1,2010/1/1,Long-term averages of spring cooling degree days with base 60F,MAM-CLDD-BASE60
+926,2010/1/1,2010/1/1,Long-term averages of spring cooling degree days with base 70F,MAM-CLDD-BASE70
+927,2010/1/1,2010/1/1,Long-term averages of spring cooling degree days with base 72F,MAM-CLDD-BASE72
+928,2010/1/1,2010/1/1,Long-term averages of spring cooling degree days with base 65F,MAM-CLDD-NORMAL
+929,2010/1/1,2010/1/1,Long-term averages of spring diurnal temperature range,MAM-DUTR-NORMAL
+930,2010/1/1,2010/1/1,Long-term averages of spring growing degree days with base 40F,MAM-GRDD-BASE40
+931,2010/1/1,2010/1/1,Long-term averages of spring growing degree days with base 45F,MAM-GRDD-BASE45
+932,2010/1/1,2010/1/1,Long-term averages of spring growing degree days with base 50F,MAM-GRDD-BASE50
+933,2010/1/1,2010/1/1,Long-term averages of spring growing degree days with base 55F,MAM-GRDD-BASE55
+934,2010/1/1,2010/1/1,Long-term averages of spring growing degree days with base 57F,MAM-GRDD-BASE57
+935,2010/1/1,2010/1/1,Long-term averages of spring growing degree days with base 60F,MAM-GRDD-BASE60
+936,2010/1/1,2010/1/1,Long-term averages of spring growing degree days with base 65F,MAM-GRDD-BASE65
+937,2010/1/1,2010/1/1,Long-term averages of spring growing degree days with base 70F,MAM-GRDD-BASE70
+938,2010/1/1,2010/1/1,Long-term averages of spring growing degree days with base 72F,MAM-GRDD-BASE72
+939,2010/1/1,2010/1/1,Long-term averages of summer growing degree days with truncated bases 48F and 86F,MAM-GRDD-TB4886
+940,2010/1/1,2010/1/1,Long-term averages of summer growing degree days with truncated bases 50F and 86F,MAM-GRDD-TB5086
+941,2010/1/1,2010/1/1,Long-term averages of spring heating degree days with base 40F,MAM-HTDD-BASE40
+942,2010/1/1,2010/1/1,Long-term averages of spring heating degree days with base 45F,MAM-HTDD-BASE45
+943,2010/1/1,2010/1/1,Long-term averages of spring heating degree days with base 50F,MAM-HTDD-BASE50
+944,2010/1/1,2010/1/1,Long-term averages of spring heating degree days with base 55F,MAM-HTDD-BASE55
+945,2010/1/1,2010/1/1,Long-term averages of spring heating degree days with base 57F,MAM-HTDD-BASE57
+946,2010/1/1,2010/1/1,Long-term averages of spring heating degree days with base 60F,MAM-HTDD-BASE60
+947,2010/1/1,2010/1/1,Long-term averages of spring heating degree days with base 65F,MAM-HTDD-NORMAL
+948,2010/1/1,2010/1/1,Long-term averages of number of days during March-May with precipitation >= 0.01 inches,MAM-PRCP-AVGNDS-GE001HI
+949,2010/1/1,2010/1/1,Long-term averages of number of days during March-May with precipitation >= a 0.10 inches,MAM-PRCP-AVGNDS-GE010HI
+950,2010/1/1,2010/1/1,Long-term averages of number of days during March-May with precipitation >= 0.50 inches,MAM-PRCP-AVGNDS-GE050HI
+951,2010/1/1,2010/1/1,Long-term averages of number of days during March-May with precipitation >= 1.00 inches,MAM-PRCP-AVGNDS-GE100HI
+952,2010/1/1,2010/1/1,Long-term averages of seasonal precipitation totals for March-May,MAM-PRCP-NORMAL
+953,2010/1/1,2010/1/1,Long-term averages of number of days during March-May with snowfall >= 0.1 inches,MAM-SNOW-AVGNDS-GE001TI
+954,2010/1/1,2010/1/1,Long-term averages of number of days during March-May with snowfall >= 1.0 inches,MAM-SNOW-AVGNDS-GE010TI
+955,2010/1/1,2010/1/1,Long-term averages of number of days during March-May with snowfall >= 3.0 inches,MAM-SNOW-AVGNDS-GE030TI
+956,2010/1/1,2010/1/1,Long-term averages of number of days during March-May with snowfall >= 5.0 inches,MAM-SNOW-AVGNDS-GE050TI
+957,2010/1/1,2010/1/1,Long-term averages of number of days during March-May with snowfall >= 10.0 inches,MAM-SNOW-AVGNDS-GE100TI
+958,2010/1/1,2010/1/1,Long-term averages of seasonal snowfall totals for March-May,MAM-SNOW-NORMAL
+959,2010/1/1,2010/1/1,Long-term averages of number of days during March-May with snow depth >= 1 inch,MAM-SNWD-AVGNDS-GE001WI
+960,2010/1/1,2010/1/1,Long-term averages of number of days during March-May with snow depth >= 3 inches,MAM-SNWD-AVGNDS-GE003WI
+961,2010/1/1,2010/1/1,Long-term averages of number of days during March-May with snow depth >= 5 inches,MAM-SNWD-AVGNDS-GE005WI
+962,2010/1/1,2010/1/1,Long-term averages of number of days during March-May with snow depth >= 10 inches,MAM-SNWD-AVGNDS-GE010WI
+963,2010/1/1,2010/1/1,Long-term averages of spring average temperature,MAM-TAVG-NORMAL
+964,2010/1/1,2010/1/1,Long-term average number of days per spring where tmax is greater than or equal to 40F,MAM-TMAX-AVGNDS-GRTH040
+965,2010/1/1,2010/1/1,Long-term average number of days per spring where tmax is greater than or equal to 50F,MAM-TMAX-AVGNDS-GRTH050
+966,2010/1/1,2010/1/1,Long-term average number of days per spring where tmax is greater than or equal to 60F,MAM-TMAX-AVGNDS-GRTH060
+967,2010/1/1,2010/1/1,Long-term average number of days per spring where tmax is greater than or equal to 70F,MAM-TMAX-AVGNDS-GRTH070
+968,2010/1/1,2010/1/1,Long-term average number of days per spring where tmax is greater than or equal to 80F,MAM-TMAX-AVGNDS-GRTH080
+969,2010/1/1,2010/1/1,Long-term average number of days per spring where tmax is greater than or equal to 90F,MAM-TMAX-AVGNDS-GRTH090
+970,2010/1/1,2010/1/1,Long-term average number of days per spring where tmax is greater than or equal to 100F,MAM-TMAX-AVGNDS-GRTH100
+971,2010/1/1,2010/1/1,Long-term average number of days per spring where tmax is less than or equal to 32F,MAM-TMAX-AVGNDS-LSTH032
+972,2010/1/1,2010/1/1,Long-term averages of spring maximum temperature,MAM-TMAX-NORMAL
+973,2010/1/1,2010/1/1,Long-term average number of days per spring where tmin is less than or equal to 0F,MAM-TMIN-AVGNDS-LSTH000
+974,2010/1/1,2010/1/1,Long-term average number of days per spring where tmin is less than or equal to 10F,MAM-TMIN-AVGNDS-LSTH010
+975,2010/1/1,2010/1/1,Long-term average number of days per spring where tmin is less than or equal to 20F,MAM-TMIN-AVGNDS-LSTH020
+976,2010/1/1,2010/1/1,Long-term average number of days per spring where tmin is less than or equal to 32F,MAM-TMIN-AVGNDS-LSTH032
+977,2010/1/1,2010/1/1,Long-term average number of days per spring where tmin is less than or equal to 40F,MAM-TMIN-AVGNDS-LSTH040
+978,2010/1/1,2010/1/1,Long-term average number of days per spring where tmin is less than or equal to 50F,MAM-TMIN-AVGNDS-LSTH050
+979,2010/1/1,2010/1/1,Long-term average number of days per spring where tmin is less than or equal to 60F,MAM-TMIN-AVGNDS-LSTH060
+980,2010/1/1,2010/1/1,Long-term average number of days per spring where tmin is less than or equal to 70F,MAM-TMIN-AVGNDS-LSTH070
+981,2010/1/1,2010/1/1,Long-term averages of spring minimum temperature,MAM-TMIN-NORMAL
+982,1948/8/2,2010/8/16,Multiday evaporation total (use with DAEV),MDEV
+983,1832-05-11,2021/3/7,"Multiday precipitation total (use with DAPR and DWPR, if available)",MDPR
+984,1859-12-29,2020/3/17,Multiday snowfall total ,MDSF
+985,1863-05-04,2021/3/7,Multiday minimum temperature (use with DATN),MDTN
+986,1863-05-04,2021/3/6,Multiday maximum temperature (use with DATX),MDTX
+987,1935/9/23,2010/6/21,Multiday wind movement,MDWM
+988,2010/1/1,2010/12/1,Long-term averages of monthly cooling degree days with base 45F,MLY-CLDD-BASE45
+989,2010/1/1,2010/12/1,Long-term averages of monthly cooling degree days with base 50F,MLY-CLDD-BASE50
+990,2010/1/1,2010/12/1,Long-term averages of monthly cooling degree days with base 55F,MLY-CLDD-BASE55
+991,2010/1/1,2010/12/1,Long-term averages of monthly cooling degree days with base 57F,MLY-CLDD-BASE57
+992,2010/1/1,2010/12/1,Long-term averages of monthly cooling degree days with base 60F,MLY-CLDD-BASE60
+993,2010/1/1,2010/12/1,Long-term averages of monthly cooling degree days with base 70F,MLY-CLDD-BASE70
+994,2010/1/1,2010/12/1,Long-term averages of monthly cooling degree days with base 72F,MLY-CLDD-BASE72
+995,2010/1/1,2010/12/1,Long-term averages of monthly cooling degree days with base 65F,MLY-CLDD-NORMAL
+996,2010/1/1,2010/12/1,Long-term averages of monthly diurnal temperature range,MLY-DUTR-NORMAL
+997,2010/1/1,2010/12/1,Long-term standard deviations of monthly diurnal temperature range,MLY-DUTR-STDDEV
+998,2010/1/1,2010/12/1,Long-term averages of monthly growing degree days with base 40F,MLY-GRDD-BASE40
+999,2010/1/1,2010/12/1,Long-term averages of monthly growing degree days with base 45F,MLY-GRDD-BASE45
